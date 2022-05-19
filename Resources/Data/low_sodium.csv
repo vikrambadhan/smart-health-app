@@ -1,0 +1,1012 @@
+meal_id,name,calories
+1,"Nuts, pecans",691
+2,"Eggplant, raw",25
+6,"Taro leaves, raw",42
+17,"Peppers, raw, jalapeno",29
+20,"Grapes, raw, muscadine",57
+25,"PACE, Green Taco Sauce",25
+29,"Nuts, dried, pine nuts",673
+48,"Butter oil, anhydrous",876
+49,"Chicory, raw, witloof",17
+53,"Durian, raw or frozen",147
+57,"Peanut flour, low fat",428
+67,"Oil, soybean lecithin",763
+79,"Syrup, fruit flavored",261
+88,"Mushrooms, raw, enoki",37
+95,"Pears, red anjou, raw",62
+104,Horned melon (Kiwano),44
+112,"Yambean (jicama), raw",38
+113,"Nuts, dried, pilinuts",719
+114,"Kiwifruit, raw, green",61
+118,"Cucumber, raw, peeled",12
+125,"Oranges, Florida, raw",46
+128,"Fiddlehead ferns, raw",34
+160,Barley flour or meal,345
+166,"Cherries, raw, sweet",63
+170,"Peaches, raw, yellow",39
+174,"Pears, bartlett, raw",63
+185,"Semolina, unenriched",360
+192,"Oil, corn and canola",884
+196,"Loganberries, frozen",55
+197,"Tangerine juice, raw",43
+200,"Game meat, raw, bear",161
+202,"Oranges, navels, raw",49
+208,"Chayote, raw, fruit",19
+212,"Oil, ucuhuba butter",884
+218,"Tapioca, dry, pearl",358
+219,"Guavas, raw, common",68
+223,"Oil, apricot kernel",884
+230,"Figs, stewed, dried",107
+239,"Prune juice, canned",71
+252,"Guava sauce, cooked",36
+256,"Fish oil, cod liver",902
+257,"Nuts, dried, acorns",509
+278,"Oil, nutmeg butter",884
+279,"Semolina, enriched",360
+285,"Acerola juice, raw",23
+293,"Fish oil, menhaden",902
+305,"Vinegar, distilled",18
+312,"Bamboo shoots, raw",27
+318,"Fat, mutton tallow",902
+321,"Yardlong bean, raw",47
+323,"Dates, deglet noor",282
+328,"Sugars, granulated",387
+330,"Pomegranates, raw",83
+331,"Pears, raw, asian",42
+346,"Rye flour, medium",349
+351,"Oheloberries, raw",28
+355,"Fish oil, sardine",902
+356,"Fish oil, herring",902
+359,"Butterbur, canned",3
+368,"Strawberries, raw",32
+371,"Wheat, hard white",342
+372,"Wheat bran, crude",216
+373,"Gooseberries, raw",44
+375,"Oil, cocoa butter",884
+390,"Wild rice, cooked",101
+394,"Wheat, soft white",340
+396,"Nuts, raw, acorns",387
+397,"Orange juice, raw",45
+400,"Blackberries, raw",43
+403,"Raspberries, raw",52
+406,"Taro shoots, raw",11
+407,"Sugars, powdered",389
+417,"Rye flour, light",357
+420,"Lemon juice, raw",22
+422,"Fish oil, salmon",902
+424,"Orange peel, raw",97
+425,"Blueberries, raw",57
+430,"Fat, beef tallow",902
+431,"Clementines, raw",47
+433,"Oat bran, cooked",40
+434,"Pears, bosc, raw",67
+435,"Sugar, turbinado",399
+440,"Cranberries, raw",46
+445,"Rose-apples, raw",25
+450,"Oil, wheat germ",884
+452,"Watermelon, raw",30
+458,"Rye flour, dark",325
+459,"Oil, tomatoseed",884
+463,"Nectarines, raw",44
+468,"Crabapples, raw",76
+469,"Breadfruit, raw",103
+470,Arrowroot flour,357
+472,"Tomatillos, raw",32
+483,"Lime juice, raw",25
+491,"Oil, rice bran",884
+493,"Dates, medjool",277
+501,"Oil, poppyseed",884
+502,"Oil, grapeseed",884
+504,"Pectin, liquid",11
+507,"Plantains, raw",122
+516,"Millet, cooked",119
+522,"Jackfruit, raw",95
+523,"Litchis, dried",277
+525,"Cornsalad, raw",21
+527,"Oil, cupu assu",884
+530,"Asparagus, raw",20
+531,"Apricots, raw",48
+538,"Nuts, almonds",579
+544,Sorghum grain,329
+545,"Oil, hazelnut",884
+561,"Oat bran, raw",246
+573,"Basil, fresh",23
+574,"Rhubarb, raw",21
+577,"Oil, teaseed",884
+578,"Oil, sheanut",884
+579,"Oil, babassu",884
+580,"Longans, raw",60
+581,"Loquats, raw",47
+583,"Pumpkin, raw",26
+592,"Pummelo, raw",38
+593,"Quinces, raw",57
+597,"Oil, coconut",892
+598,"Wheat, durum",339
+600,Millet flour,382
+603,"Litchis, raw",66
+606,"Oil, mustard",884
+607,"Oil, avocado",884
+610,"Fat, chicken",900
+613,"Bananas, raw",89
+615,Fruit syrup,341
+616,"Chives, raw",30
+620,Chewing gum,360
+621,"Fat, turkey",900
+624,"Mangos, raw",60
+631,"Feijoa, raw",61
+634,"Oil, almond",884
+635,"Oil, walnut",884
+636,"Jujube, raw",79
+637,"Oil, canola",884
+639,"Onions, raw",40
+642,"Fat, goose",900
+645,"Limes, raw",30
+647,"Pears, raw",57
+648,"Plums, raw",46
+649,"Rowal, raw",111
+652,Buckwheat,343
+653,"Oil, palm",884
+654,"Fat, duck",882
+656,Rye grain,338
+657,"Dock, raw",22
+661,"Figs, raw",74
+666,"Oil, oat",884
+672,Honey,304
+676,Lard,902
+677,Oats,389
+683,"Wheat flour, whole-grain",340
+691,"Oil, cold pressed, flaxseed",884
+692,"Triticale flour, whole-grain",338
+699,"Rice flour, unenriched, white",366
+740,"Oil, salad or cooking, peanut",884
+743,"Corn, steamed (Navajo), white",386
+758,"Blueberries, sweetened, dried",317
+768,"Currants, raw, european black",63
+769,"Pineapple, all varieties, raw",50
+779,"Apples, with skin, gala, raw",57
+788,"Oil, salad or cooking, olive",884
+799,Orange Pineapple Juice Blend,51
+800,"Beverages, hard cider, AMBER",56
+801,"Babyfood, apple-banana juice",51
+810,"Cockles, raw (Alaska Native)",79
+812,"Apples, with skin, fuji, raw",63
+833,"Cranberry juice, unsweetened",46
+844,"Oil, and olive, peanut, corn",884
+857,"Grapefruit juice, raw, white",39
+863,"Crackers, whole-wheat, matzo",351
+875,"Squash, raw, scallop, summer",18
+876,"Currants, raw, red and white",56
+888,"Beverages, well, tap, water",0
+892,"Oil, walrus (Alaska Native)",900
+893,"Grapefruit juice, raw, pink",39
+905,"Soybeans, raw, mature seeds",446
+911,"Syrups, high-fructose, corn",281
+916,"Nuts, dried, black, walnuts",619
+928,"Nuts, full fat, acorn flour",501
+935,"Gravy, mushroom, CAMPBELL'S",34
+943,"Apricots, sweetened, frozen",98
+946,"Squash, raw, baby, zucchini",21
+965,"Nuts, hazelnuts or filberts",628
+968,"Peppers, raw, yellow, sweet",27
+982,"Persimmons, dried, japanese",274
+984,"Carambola, raw, (starfruit)",31
+999,"Squash, raw, acorn, winter",40
+1001,"Peppers, raw, green, sweet",20
+1005,"Nance, unsweetened, frozen",73
+1009,"Vegetable oil, palm kernel",862
+1019,"Game meat, raw, wild, boar",122
+1035,"Sorghum flour, whole-grain",359
+1046,"Pasta, cooked, whole-wheat",149
+1050,"Carissa, raw, (natal-plum)",62
+1063,"Apples, without skin, raw",48
+1074,"Rhubarb, uncooked, frozen",21
+1083,"Lemons, without peel, raw",29
+1084,"Nuts, raw, pistachio nuts",560
+1092,"Vermicelli, made from soy",331
+1103,"Blueberries, frozen, wild",57
+1111,"Gravy, au jus, CAMPBELL'S",8
+1117,"Cornmeal, yellow (Navajo)",384
+1135,"Jerusalem-artichokes, raw",73
+1138,"Persimmons, raw, japanese",70
+1163,"Nuts, dried, hickorynuts",657
+1179,"Peppers, raw, red, sweet",31
+1202,"Peas, raw, edible-podded",42
+1207,"Amaranth grain, uncooked",371
+1208,"Cornmeal, white (Navajo)",398
+1219,"Cucumber, raw, with peel",15
+1225,"Cherries, raw, red, sour",50
+1228,"Blackberry juice, canned",38
+1229,"Okra, unprepared, frozen",30
+1239,"Plantains, fried, green",309
+1240,"Water, generic, bottled",0
+1242,"Milk, fluid, low sodium",61
+1253,"Peppers, raw, hungarian",29
+1265,Octopus (Alaska Native),56
+1270,"Nuts, dried, butternuts",612
+1272,"Pears, green anjou, raw",66
+1275,"Soy meal, raw, defatted",337
+1278,"Barley, cooked, pearled",123
+1283,"Babyfood, orange, juice",45
+1291,"Mushrooms, raw, maitake",31
+1296,"Persimmons, raw, native",127
+1299,"Oranges, with peel, raw",63
+1300,"Seeds, raw, lotus seeds",89
+1305,"Sweetener, agave, syrup",310
+1309,"Apples, with skin, raw",52
+1318,"Nuts, english, walnuts",654
+1338,"Avocados, Florida, raw",120
+1341,"Peanuts, raw, valencia",570
+1345,"Crackers, plain, matzo",395
+1353,"Wheat, hard red spring",329
+1354,"Wheat, soft red winter",331
+1355,"Wheat, hard red winter",327
+1371,"Cloudberries, raw (Alaska Native)",51
+1373,"Nuts, roasted, european, chestnuts",245
+1374,"Cherries, sweetened, frozen, sweet",89
+1377,"Cowpeas, raw, young pods with seeds",44
+1379,"Babyfood, junior, applesauce, fruit",37
+1383,"Whale, eyes (Alaska Native), beluga",291
+1387,"Nuts, unblanched, dried, brazilnuts",659
+1388,"Walrus, dried (Alaska Native), meat",251
+1389,"Seal, liver (Alaska Native), ringed",116
+1397,"Oranges, valencias, California, raw",49
+1399,"Beans, no salt added, canned, baked",105
+1407,"Tea, Hohoysi (Hopi), brewed, herbal",2
+1417,"Walrus, raw (Alaska Native), liver",125
+1420,"Baking chocolate, squares, mexican",426
+1422,"WENDY'S, with cheese, Double Stack",285
+1427,"Grapefruit, California, white, raw",37
+1433,"Sorghum flour, unenriched, refined",357
+1460,"Boysenberries, heavy syrup, canned",88
+1461,"Boysenberries, unsweetened, frozen",50
+1480,"Squash, raw, all varieties, summer",16
+1481,"Squash, raw, all varieties, winter",34
+1486,"Babyfood, orange and banana, juice",50
+1487,"Candies, AFTER EIGHT Mints, NESTLE",432
+1488,"Beverages, PERRIER, bottled, water",0
+1492,"Gourd, raw, dishcloth (towelgourd)",20
+1493,"Babyfood, strained, peaches, fruit",65
+1496,"Tangerine juice, sweetened, canned",50
+1497,"Wheat flour, enriched, cake, white",362
+1498,"Oil, whale (Alaska Native), beluga",900
+1503,"Lemonade, pink, frozen concentrate",192
+1507,"Sea cucumber, yane (Alaska Native)",56
+1526,"Taro shoots, without salt, cooked",14
+1533,"Walrus, raw (Alaska Native), meat",199
+1537,"Grapefruit, all areas, white, raw",33
+1539,"Babyfood, apple and cherry, juice",41
+1540,"Nuts, roasted, chinese, chestnuts",239
+1549,"Rice, cooked, medium-grain, brown",112
+1550,"McDONALD'S, Peanuts (for Sundaes)",640
+1562,"Bear, meat (Alaska Native), black",155
+1570,"Caribou, raw (Alaska Native), eye",326
+1598,"Mouse nuts, roots (Alaska Native)",81
+1601,"Buckwheat groats, cooked, roasted",92
+1603,"Orange juice, unsweetened, canned",47
+1608,"Strawberries, unsweetened, frozen",35
+1619,"Oil, salad or cooking, cottonseed",884
+1620,"Winged beans, raw, immature seeds",49
+1623,"Oil, spotted seal (Alaska Native)",894
+1624,"Cranberry juice cocktail, bottled",54
+1625,"Babyfood, orange and apple, juice",43
+1626,"Babyfood, prune and orange, juice",70
+1647,"Gravy, fat free, beef, CAMPBELL'S",25
+1648,"Blackberries, unsweetened, frozen",64
+1657,"Vitasoy USA Azumaya, Silken Tofu",43
+1672,"Babyfood, apple and grape, juice",46
+1677,"Tofu, prepared with nigari, hard",145
+1681,"WEND'YS, Crispy Chicken Sandwich",278
+1682,"BURGER KING, Double Cheeseburger",282
+1684,"Babyfood, junior, cherry cobbler",78
+1690,"Cereals, Dry, Quick Oats, QUAKER",371
+1694,"Babyfood, apple and peach, juice",43
+1722,"Blueberries, unsweetened, frozen",51
+1726,"Beverages, municipal, tap, water",0
+1733,"Mashu roots, raw (Alaska Native)",135
+1739,"Succotash, raw, (corn and limas)",99
+1747,"Pasta, cooked, corn, gluten-free",126
+1756,"Babyfood, strained, pears, fruit",42
+1757,"Babyfood, junior, peaches, fruit",65
+1761,"Cereals, dry, unenriched, farina",369
+1763,"Raspberries, unsweetened, frozen",52
+1776,"Beverages, brewed, hibiscus, tea",0
+1780,"Beverages, drinking, tap, water",0
+1791,"Grapefruit, Florida, white, raw",32
+1796,"Babyfood, tropical fruit medley",51
+1806,"Beverages, Malt liquor beverage",40
+1821,"Babyfood, fruit supreme dessert",73
+1836,"Alcoholic beverage, rice (sake)",134
+1842,"Alcoholic beverage, light, beer",29
+1846,"Plums, uncooked, dried (prunes)",240
+1849,"Rice, cooked, long-grain, brown",123
+1857,"Babyfood, apple - cherry, juice",47
+1865,"Babyfood, apple and plum, juice",49
+1874,"Wheat flours, unenriched, bread",361
+1890,"Vitasoy USA Azumaya, Firm Tofu",80
+1910,"Squash, raw, butternut, winter",45
+1916,"Rice, raw, medium-grain, brown",362
+1927,"Kiwifruit, raw, ZESPRI SunGold",63
+1943,"Pitanga, raw, (surinam-cherry)",33
+1944,"Crackers, GOYA CRACKERS, snack",433
+1952,"Blueberries, sweetened, frozen",85
+1960,"Beans, microwaved, green, snap",39
+1964,"Oil, salad or cooking, soybean",884
+1985,"Babyfood, junior, pears, fruit",44
+1997,"Beverages, brewed, Oolong, tea",1
+2006,"Beverages, Orange juice drink",54
+2019,"Nuts, raw, chinese, chestnuts",224
+2022,"Oil, salad or cooking, sesame",884
+2029,"Pasta, dry, corn, gluten-free",357
+2042,"Raspberries, sweetened, red, frozen",103
+2047,"Plums, wild (Northern Plains Indians)",91
+2049,"Squirrel, meat (Alaska Native), ground",111
+2051,"Bear, raw (Alaska Native), meat, polar",130
+2064,"Beverages, POLAND SPRING, bottled, water",0
+2077,"Oil, fully hydrogenated, soy, industrial",884
+2078,"Cowpeas (blackeyes), raw, immature seeds",90
+2092,"Cherries, unsweetened, frozen, red, sour",46
+2103,"Beverages, No pulp, light, Orange juice",21
+2112,"Strawberries, sliced, sweetened, frozen",96
+2140,"KASHI, unprepared, 7 Whole Grain, Pilaf",375
+2158,"Owl, raw (Alaska Native), flesh, horned",136
+2161,"Peas, unprepared, frozen, edible-podded",42
+2166,"Beverages, chamomile, brewed, herb, tea",1
+2176,"Squash, boiled (Navajo), cooked, Indian",16
+2178,"Oil, (approx. 65%), linoleic, sunflower",884
+2200,"Vitasoy USA, Organic Nasoya Silken Tofu",47
+2221,"Grapefruit, Florida, pink and red, raw",30
+2235,"Babyfood, junior, dutch apple, dessert",79
+2237,"Beverages, regular, brewed, green, tea",1
+2238,"Grapes, raw, american type (slip skin)",67
+2253,"Fish oil, fully hydrogenated, menhaden",902
+2266,"Babyfood, dry fortified, mixed, cereal",379
+2272,"Alcoholic beverage, all, regular, beer",43
+2276,"Pineapple, drained, juice pack, canned",60
+2277,"Apricots, drained, heavy syrup, canned",83
+2279,"Tofu, prepared with nigari, extra firm",83
+2286,"Vanilla extract, no alcohol, imitation",56
+2289,"Strawberries, whole, sweetened, frozen",78
+2291,"Jellies, home preserved, reduced sugar",179
+2292,"Snacks, air-popped (Unsalted), popcorn",382
+2315,"Nuts, peeled, raw, european, chestnuts",196
+2324,"Beans, liquid from stewed kidney beans",47
+2325,"Fish, whole (Alaska Native), blackfish",82
+2327,"Sweeteners, liquid, fructose, tabletop",279
+2329,"Frozen novelties, fruit and juice bars",87
+2330,"Sourdock, young leaves (Alaska Native)",42
+2337,"Oranges, all commercial varieties, raw",47
+2338,"Keikitos (muffins), Latino bakery item",467
+2349,"Sea lion, fat (Alaska Native), Steller",850
+2352,"Willow, leaves in oil (Alaska Native)",592
+2356,"Vitasoy USA Organic Nasoya, Soft Tofu",70
+2360,"Pineapple, traditional varieties, raw",45
+2361,"Apples, with skin, red delicious, raw",59
+2366,"Rhubarb, leaves (Alaska Native), wild",61
+2376,"Babyfood, strained, banana no tapioca",91
+2392,"Gourd, raw, white-flowered (calabash)",14
+2417,"Apples, unheated, unsweetened, frozen",48
+2418,"Oil, sunflower, mid-oleic, industrial",884
+2420,"Mouse nuts, seedlings (Alaska Native)",104
+2435,"Beverages, ready to drink, black, tea",0
+2436,"Babyfood, orange and pineapple, juice",48
+2437,"Nuts, blanched, hazelnuts or filberts",629
+2448,"Fish, meat (Alaska Native), devilfish",97
+2452,"Babyfood, strained, applesauce, fruit",41
+2459,"Custard-apple, raw, (bullock's-heart)",101
+2463,"Vitasoy USA, Organic Nasoya Firm Tofu",84
+2467,"Bananas, or banana powder, dehydrated",346
+2479,"Vitasoy USA Azumaya, Extra Firm Tofu",88
+2482,"Water, NAYA, non-carbonated, bottled",0
+2485,"Apples, with skin, granny smith, raw",58
+2489,"Babyfood, with calcium, apple, juice",46
+2492,"Maraschino cherries, drained, canned",165
+2520,"Alcoholic beverage, red, table, wine",85
+2523,"Caribou, raw (Alaska Native), tongue",260
+2536,"Pineapple, sweetened, chunks, frozen",86
+2539,"Seeds, dried, safflower seed kernels",517
+2547,"Artificial Blueberry Muffin Mix, dry",407
+2562,"Gravy, brown with onions, CAMPBELL'S",42
+2563,"Cereals, cooked with water, WHEATENA",56
+2567,"Fish, liver (Alaska Native), lingcod",424
+2572,"Wheat flour, soft wheat, whole-grain",332
+2581,"Fiddlehead ferns, unprepared, frozen",34
+2585,"Beverages, regular, cola, carbonated",42
+2611,"Oil, bowhead (Alaska Native), whale",900
+2612,"Oil, low linolenic, soy, industrial",900
+2613,"Oil, high oleic, canola, industrial",900
+2647,"Caribou, raw (Alaska Native), liver",122
+2663,"Tangerines, raw, (mandarin oranges)",53
+2664,"Gravy, fat free, turkey, CAMPBELL'S",33
+2673,"Beverages, Cranberry juice cocktail",52
+2682,"Apples, heated, unsweetened, frozen",47
+2689,"Pineapple, extra sweet variety, raw",51
+2695,"Vanilla extract, alcohol, imitation",237
+2697,"Rhubarb, with sugar, cooked, frozen",116
+2700,"Soybeans, dry roasted, mature seeds",449
+2701,"Wheat flour, enriched, bread, white",361
+2719,"Hyacinth-beans, raw, immature seeds",46
+2724,"Rice, unenriched, raw, short-grain, white",358
+2727,"KASHI, Oatmeal Dark Chocolate Cookies, TLC",426
+2738,"Carbonated beverage, chocolate-flavored soda",42
+2739,"Alcoholic Beverage, Merlot, red, table, wine",83
+2742,"Alcoholic beverage, 80 proof, rum, distilled",231
+2744,"Rice, unenriched, cooked, short-grain, white",130
+2748,"Shortening, fractionated palm, confectionery",884
+2754,"Cranberry juice cocktail, frozen concentrate",201
+2782,"Figs, solids and liquids, water pack, canned",53
+2804,"Babyfood, junior, apple and blueberry, fruit",62
+2806,"Alcoholic beverage, BUDWEISER, regular, beer",41
+2817,"Alcoholic beverage, 90 proof, gin, distilled",263
+2818,"Cereals, dry, whole wheat hot natural cereal",342
+2823,"Rice, uncooked, enriched, short-grain, white",358
+2828,"Beverages, decaffeinated, brewed, green, tea",0
+2834,"Babyfood, orange and apple and banana, juice",47
+2841,"Babyfood, junior, pears and pineapple, fruit",44
+2842,"Babyfood, junior, apple and raspberry, fruit",58
+2843,"Alcoholic Beverage, Claret, red, table, wine",83
+2846,"Prickly pears, raw (Northern Plains Indians)",42
+2847,"Nuts, boiled and steamed, chinese, chestnuts",153
+2860,"Salad dressing, vinegar and oil, home recipe",449
+2885,"Cherries, drained, water pack, canned, sour",42
+2889,"Fish, liver (Alaska Native), northern, pike",156
+2903,"Dock, without salt, drained, boiled, cooked",20
+2926,"Alcoholic Beverage, Gamay, red, table, wine",78
+2940,"Naranjilla (lulo) pulp, unsweetened, frozen",25
+2943,"Raspberries, wild (Northern Plains Indians)",62
+2944,"Beverages, fast-food cola, cola, carbonated",37
+2955,"Babyfood, strained, bananas and rice, plums",57
+2956,"Wheat flour, unenriched, all-purpose, white",364
+2969,"Rice, cooked, enriched, medium-grain, white",130
+2970,"Beverages, diet, lemon, ready-to-drink, tea",2
+2979,"Babyfood, mango with tapioca, fruit dessert",70
+2987,"Alcoholic Beverage, Syrah, red, table, wine",83
+2994,"Pasta, without added salt, enriched, cooked",158
+2996,"Whale, raw (Alaska Native), flipper, beluga",271
+3004,"Vitasoy USA, Organic Nasoya Extra Firm Tofu",98
+3009,"GLUTINO, Vanilla Creme, Gluten Free Cookies",487
+3011,"Shortening, composite, household, vegetable",884
+3018,"Hazelnuts, beaked (Northern Plains Indians)",628
+3027,"Vitasoy USA Organic Nasoya, Tofu Plus Firm",74
+3028,"Taro leaves, without salt, steamed, cooked",24
+3047,"Deer (venison), raw (Alaska Native), sitka",116
+3051,"Babyfood, with calcium, fruit punch, juice",52
+3056,"Rice, unenriched, raw, medium-grain, white",360
+3065,"Rice, UNCLE BENS, cooked, parboiled, brown",147
+3080,"CAMPBELL'S Low Sodium Soups, Chicken Broth",10
+3085,"Chiton, gumboots (Alaska Native), leathery",83
+3101,"Seeds, without salt, sunflower seed butter",617
+3109,"Babyfood, dry, with bananas, mixed, cereal",391
+3118,"Alcoholic beverage, BUD LIGHT, light, beer",29
+3124,"Oil, bearded seal (Oogruk) (Alaska Native)",899
+3130,"Rice, cooked, enriched, short-grain, white",130
+3146,"Grapefruit juice, sweetened, canned, white",46
+3153,"Cereals, Dry, Quick Oats with Iron, QUAKER",371
+3162,"Cereals, dry, plain, original, MALT-O-MEAL",365
+3171,"Beverages, breakfast blend, brewed, coffee",2
+3177,"Gravy, slow roast, turkey, FRANCO-AMERICAN",42
+3183,"Apples, boiled, cooked, without skin, raw",53
+3192,"Alcoholic beverage, low carb, light, beer",27
+3219,"Alcoholic beverages, higher alcohol, beer",58
+3232,"Caribou, raw (Alaska Native), bone marrow",786
+3234,"Jams, reduced sugar, marmalade, preserves",151
+3243,"Rose Hips, wild (Northern Plains Indians)",162
+3250,"Blueberries, drained, light syrup, canned",88
+3251,"Prunes, stewed, dehydrated (low-moisture)",113
+3273,"Babyfood, dry, with bananas, rice, cereal",404
+3275,"KEEBLER, KEEBLER Chocolate Graham SELECTS",465
+3289,"Oil, ultra low linolenic, soy, industrial",884
+3291,"Blueberries, frozen (Alaska Native), wild",44
+3292,"Whale, raw (Alaska Native), liver, beluga",117
+3293,"Oil, high oleic (70% and over), sunflower",884
+3295,"Mushrooms, without salt, cooked, shiitake",56
+3326,"Nuts, unpeeled, raw, european, chestnuts",213
+3336,"Babyfood, strained, dutch apple, dessert",75
+3338,"Babyfood, junior, peach cobbler, dessert",67
+3348,"Grapefruit, all areas, pink and red, raw",42
+3358,"Apples, with skin, golden delicious, raw",57
+3371,"Sea lion, heart (Alaska Native), Steller",102
+3372,"Sea lion, liver (Alaska Native), Steller",137
+3378,"Corn flour, unenriched, degermed, yellow",375
+3384,"Oil, linoleic (less than 60%), sunflower",884
+3391,"Rice, enriched, raw, medium-grain, white",360
+3408,"Fruit juice smoothie, BLUE MACHINE, NAKED JUICE",71
+3409,"CAMPBELL'S Red and White, condensed, Beef Broth",12
+3412,"Limeade, prepared with water, frozen concentrate",52
+3417,"Pineapple, solids and liquids, juice pack, canned",60
+3418,"Pineapple, solids and liquids, water pack, canned",32
+3421,"SAGE VALLEY, Gluten Free Vanilla Sandwich Cookies",499
+3426,"Vitasoy USA, Organic Nasoya Super Firm Cubed Tofu",118
+3457,"Apricot nectar, with added ascorbic acid, canned",56
+3460,"Beverages, EVIAN, non-carbonated, bottled, water",0
+3465,"Alcoholic beverage, 86 proof, whiskey, distilled",250
+3472,"Alcoholic Beverage, Pinot Noir, red, table, wine",82
+3473,"Groundcherries, raw, (cape-gooseberries or poha)",53
+3476,"Alcoholic beverage, Riesling, white, table, wine",80
+3482,"Babyfood, junior, applesauce and cherries, fruit",51
+3483,"Babyfood, junior, applesauce and apricots, fruit",47
+3500,"Duck, meat (Alaska Native), white-winged, scoter",84
+3507,"Butterbur, without salt, drained, boiled, cooked",8
+3512,"Crustaceans, raw (not previously frozen), shrimp",85
+3528,"Sweeteners, SPLENDA packets, sucralose, tabletop",336
+3539,"Fish, dry (Alaska Native), Pacific, herring eggs",312
+3540,"Macaroni and cheese loaf, pork and beef, chicken",228
+3543,"Cereals ready-to-eat, plain, toasted, wheat germ",382
+3553,"Alcoholic beverage, Semillon, white, table, wine",82
+3558,"Alcoholic Beverage, Sangiovese, red, table, wine",86
+3562,"Prickly pears, broiled (Northern Plains Indians)",91
+3566,"Lambsquarters, steamed (Northern Plains Indians)",48
+3569,"Fruit juice smoothie, strawberry banana, ODWALLA",48
+3575,"Pears, with added sugar, stewed, sulfured, dried",140
+3576,"Pear nectar, without added ascorbic acid, canned",60
+3583,"Orange juice, includes from concentrate, chilled",49
+3591,"Cereals, dry, quick, white, hominy grits, QUAKER",348
+3602,"Fish, raw (not previously frozen), Pacific, cod",72
+3607,"Fruit juice smoothie, MIGHTY MANGO, NAKED JUICE",63
+3616,"Beverages, bottled, cranberry-apple juice drink",63
+3621,"Sweeteners, packets, EQUAL, aspartame, tabletop",365
+3629,"Pasta, cooked, corn and rice flour, gluten-free",179
+3639,"Babyfood, junior, applesauce with banana, fruit",66
+3642,"Eggplant, without salt, drained, boiled, cooked",35
+3645,"Babyfood, strained, bananas with tapioca, fruit",56
+3658,"Squash, raw, crookneck and straightneck, summer",19
+3659,"Seeds, partially defatted, sunflower seed flour",326
+3665,"Candies, DOVE Dark Chocolate, MARS SNACKFOOD US",520
+3680,"Peaches, solids and liquids, water pack, canned",24
+3681,"Peaches, solids and liquids, juice pack, canned",44
+3691,"Blueberries, drained, heavy syrup, canned, wild",107
+3696,"Plums, with added sugar, stewed, dried (prunes)",124
+3700,"Oil, 80% diglycerides, ENOVA, cooking and salad",884
+3714,"Alcoholic beverage, higher alcohol, light, beer",46
+3715,"Beverages, bottled, cranberry-grape juice drink",56
+3719,"Alcoholic Beverage, Carignane, red, table, wine",74
+3720,"Alcoholic Beverage, Lemberger, red, table, wine",80
+3721,"Alcoholic Beverage, Zinfandel, red, table, wine",88
+3727,"Oil, fully hydrogenated, cottonseed, industrial",884
+3730,"Babyfood, strained, apricot with tapioca, fruit",60
+3748,"Fish, fermented (Alaska Native), tipnuk, salmon",159
+3760,"INTERSTATE BRANDS CORP, WONDER Hamburger Rolls",273
+3768,"Alcoholic beverage, 80 proof, vodka, distilled",231
+3784,"Babyfood, junior, banana and strawberry, fruit",109
+3786,"Babyfood, strained, apple and blueberry, fruit",61
+3794,"Corn, microwaved, frozen, whole kernel, yellow",131
+3796,"Pumpkin, without salt, drained, boiled, cooked",20
+3797,"Alcoholic Beverage, Burgundy, red, table, wine",86
+3798,"Alcoholic Beverage, Mouvedre, red, table, wine",88
+3801,"Nuts, without salt added, oil roasted, almonds",607
+3802,"Nuts, without salt added, dry roasted, almonds",598
+3806,"Soybeans, no salt added, roasted, mature seeds",469
+3812,"Seeds, partially defatted, safflower seed meal",342
+3827,"Oopah (tunicate), whole animal (Alaska Native)",67
+3857,"Babyfood, strained, pears and pineapple, fruit",41
+3858,"Babyfood, strained, apple and raspberry, fruit",58
+3863,"Cereals ready-to-eat, fortified, puffed, wheat",364
+3866,"Beverages, lemon, ready-to-drink, tea, ARIZONA",39
+3881,"Alcoholic beverage, Muscat, white, table, wine",82
+3904,"Willow, chopped (Alaska Native), young leaves",122
+3908,"Corn, yellow (Northern Plains Indians), dried",419
+3918,"Babyfood, junior, bananas with tapioca, fruit",67
+3919,"Babyfood, mix vegetables strained, vegetables",36
+3921,"Fish, liver (Alaska Native), broad, whitefish",104
+3923,"Pear nectar, with added ascorbic acid, canned",60
+3928,"Squash, unprepared, frozen, butternut, winter",57
+3931,"Rice, unenriched, cooked, medium-grain, white",130
+3932,"Soybeans, without salt, boiled, mature cooked",172
+3943,"PILLSBURY, dry, Traditional Fudge Brownie Mix",441
+3945,"Babyfood, strained, banana with mixed berries",92
+3957,"Babyfood, junior, apricot with tapioca, fruit",63
+3963,"Pears, solids and liquids, water pack, canned",29
+3964,"Pears, solids and liquids, juice pack, canned",50
+4003,"Shortening, lard and vegetable oil, household",900
+4004,"Shortening industrial, lard and vegetable oil",900
+4024,"Chokecherries, pitted (Shoshone Bannock), raw",156
+4025,"Nuts, without salt added, oil roasted, pecans",715
+4026,"Nuts, without salt added, dry roasted, pecans",710
+4029,"Cereals ready-to-eat, fortified, puffed, rice",402
+4030,"Pasta, without added salt, unenriched, cooked",158
+4031,"Alcoholic Beverage, Barbera, red, table, wine",85
+4036,"Babyfood, strained, without vitamin c, prunes",100
+4044,"Beverages, without caffeine, cola, carbonated",41
+4057,"Onions, without salt, drained, boiled, cooked",44
+4073,"Apples, microwave, cooked, without skin, raw",56
+4085,"Figs, solids and liquids, heavy syrup pack, canned",88
+4092,"Stinging Nettles, blanched (Northern Plains Indians)",42
+4106,"Wheat flour, unbleached, enriched, all-purpose, white",364
+4125,"USDA Commodity Food, refined, soybean, vegetable, oil",884
+4128,"Beverages, with added vitamin C, canned, orange drink",49
+4141,"Potatoes, without salt, flesh, cooked in skin, boiled",87
+4143,"Babyfood, strained, pineapple, fruit pudding, dessert",81
+4161,"Incaparina, unprepared, dry mix (corn and soy flours)",379
+4175,"Snacks, unsalted, sesame seed, brown rice, rice cakes",392
+4176,"Babyfood, apple and sweet potato, fruit and vegetable",64
+4182,"Blackberries, solids and liquids, heavy syrup, canned",92
+4185,"Beverages, unsweetened, ready-to-drink, tea, WENDY'S",1
+4190,"Apples, unheated, drained, sliced, sweetened, canned",67
+4193,"Snacks, unsalted, oil-popped, home-prepared, popcorn",500
+4195,"Prunes, solids and liquids, heavy syrup pack, canned",105
+4201,"Snacks, unsalted, multigrain, brown rice, rice cakes",387
+4202,Shortening household soybean (hydrogenated) and palm,884
+4203,"Rice, cooked, enriched, parboiled, long-grain, white",123
+4210,"Alcoholic Beverage, Cabernet Franc, red, table, wine",83
+4212,"Beverages, CALISTOGA, non-carbonated, bottled, water",0
+4214,"Beverages, lemon, ready-to-drink, black, tea, NESTEA",36
+4215,"Alcoholic beverage, late harvest, white, table, wine",112
+4218,"Alcoholic beverage, Chenin Blanc, white, table, wine",80
+4257,"Blueberries, solids and liquids, heavy syrup, canned",88
+4285,"Bamboo shoots, without salt, drained, boiled, cooked",12
+4290,"Seeds, without salt, toasted, sunflower seed kernels",619
+4293,"Sweeteners, contains sugar and sucralose, for baking",398
+4300,"Yardlong bean, without salt, drained, boiled, cooked",47
+4304,"Fruit juice smoothie, strawberry banana, NAKED JUICE",50
+4305,"Peaches, stewed, sulfured, dehydrated (low-moisture)",133
+4332,"Beans, unprepared, all styles, frozen, yellow, snap",33
+4345,"Shortening frying (heavy duty), palm (hydrogenated)",884
+4346,"Babyfood, strained, cherry vanilla pudding, dessert",68
+4352,"Alcoholic beverage, Pinot Blanc, white, table, wine",81
+4364,"RUDI'S, Original Sandwich Bread, Gluten-Free Bakery",320
+4375,"Burdock root, without salt, drained, boiled, cooked",88
+4386,"Lentils, without salt, boiled, cooked, mature seeds",116
+4387,"Crustaceans, cooked (not previously frozen), shrimp",99
+4392,"Apricots, with added sugar, stewed, sulfured, dried",113
+4393,"Apricot nectar, without added ascorbic acid, canned",56
+4401,"Seal, dried (Alaska Native), meat, bearded (Oogruk)",351
+4408,"Rice, dry, unenriched, parboiled, long-grain, white",374
+4411,"CAMPBELL'S Low Sodium Soups, Cream of Mushroom Soup",54
+4424,"Babyfood, strained, applesauce and pineapple, fruit",37
+4431,"Wheat flour, bleached, enriched, all-purpose, white",364
+4440,"Pears, without added sugar, stewed, sulfured, dried",127
+4444,"Snacks, unsalted, buckwheat, brown rice, rice cakes",380
+4451,"Beverages, canned, pineapple and orange juice drink",50
+4455,"Okra, without salt, drained, boiled, cooked, frozen",29
+4466,"Fish, cooked (not previously frozen), Pacific, cod",84
+4467,"Fish, raw (not previously frozen), Alaska, pollock",70
+4468,"Apples, heated, drained, sliced, sweetened, canned",67
+4475,"Cereals, dry, Farina Hot Wheat Cereal, MALT-O-MEAL",365
+4480,"Beverages, Glacial Natural spring water, ICELANDIC",0
+4482,"Grapefruit, all areas, pink and red and white, raw",32
+4487,"Squash, without salt, baked, cooked, acorn, winter",56
+4490,"Babyfood, mango and kiwi, apple, 3rd Foods, GERBER",53
+4495,"Rice, cooked, enriched, regular, long-grain, white",130
+4506,"Alcoholic beverage, Fume Blanc, white, table, wine",82
+4508,"Babyfood, strained, applesauce and cherries, fruit",51
+4509,"Babyfood, strained, applesauce and apricots, fruit",44
+4525,"Fish, liver (Alaska Native), chinook, king, salmon",156
+4526,"Figs, solids and liquids, light syrup pack, canned",69
+4538,"Gravy, fat free, slow roast, beef, FRANCO-AMERICAN",34
+4541,"Lupins, without salt, boiled, cooked, mature seeds",119
+4546,"CAMPBELL'S Red and White, condensed, Beef Consomme",16
+4558,"Plums, without added sugar, stewed, dried (prunes)",107
+4560,"Peas, without salt, drained, boiled, cooked, green",84
+4561,"Peas, without salt, drained, boiled, edible-podded",42
+4567,"Beans, microwaved, all styles, frozen, green, snap",40
+4568,"Beans, unprepared, all styles, frozen, green, snap",39
+4572,"Beverages, prepared with tap water, brewed, coffee",1
+4583,"Beverages, brewed, other than chamomile, herb, tea",1
+4586,"Alcoholic Beverage, Petite Sirah, red, table, wine",85
+4596,"Fruit juice smoothie, BERRY BOOST, BOLTHOUSE FARMS",46
+4600,"Peaches, with added sugar, stewed, sulfured, dried",103
+4602,"Peas, drained solids, no salt added, canned, green",69
+4604,"Oil, (partially hydrogenated), linoleic, sunflower",884
+4612,"Lamb, raw,  85% lean / 15% fat, ground, Australian",255
+4616,"Cereals, dry, regular, white, hominy grits, QUAKER",361
+4658,"Rice, dry, enriched, parboiled, long-grain, white",374
+4662,"Babyfood, junior, cherry vanilla pudding, dessert",69
+4668,"Beverages, DANNON, non-carbonated, bottled, water",0
+4671,"Candies, dietetic or low calorie (sorbitol), hard",394
+4672,"Lemon juice, single strength, unsweetened, frozen",22
+4705,"Prairie Turnips, boiled (Northern Plains Indians)",129
+4718,"Alcoholic beverage, BUDWEISER SELECT, light, beer",28
+4719,"Seal, raw (Alaska Native), meat, bearded (Oogruk)",110
+4723,"Beverages, canned, orange and apricot juice drink",51
+4724,"USDA Commodity pears, drained, juice pack, canned",51
+4729,"Cereals, Regular, Instant Oatmeal Organic, QUAKER",367
+4739,"Beverages, bottled, cranberry-apricot juice drink",64
+4740,"Grapefruit juice, with added calcium, pink or red",38
+4744,"Sweetener, herbal extract powder from Stevia leaf",0
+4745,"Babyfood, junior, applesauce and pineapple, fruit",39
+4750,"Fruit juice smoothie, ORIGINAL SUPERFOOD, ODWALLA",50
+4763,"Oil, (over 70%), linoleic, salad or cooking, safflower",884
+4764,"Shortening bread, soybean (hydrogenated) and cottonseed",884
+4770,"Oil, (partially hydrogenated), salad or cooking, soybean",884
+4773,"Applesauce, with added ascorbic acid, unsweetened, canned",42
+4778,"Gooseberries, solids and liquids, light syrup pack, canned",73
+4782,"SUPPER BAKES MEAL KITS, Creamy Stroganoff Sauce with pasta",147
+4799,"Cookies, with creme filling, vanilla sandwich, gluten-free",493
+4800,"Peppers, without salt, drained, boiled, cooked, red, sweet",28
+4802,"Corn, without salt, drained, boiled, cooked, yellow, sweet",96
+4805,"Beverages, diet, decaffeinated, ready to drink, black, tea",0
+4813,"Beans, without salt, drained, boiled, cooked, yellow, snap",35
+4826,"Grapefruit juice, OCEAN SPRAY, unsweetened, bottled, white",34
+4829,"Beans, drained solids, no salt added, canned, yellow, snap",20
+4830,"Strawberries, solids and liquids, heavy syrup pack, canned",92
+4832,"Squash, without salt, baked, cooked, all varieties, winter",37
+4874,"Beverages, lemon, ready-to-drink, black, tea, LIPTON BRISK",35
+4882,"Beverages, CRYSTAL GEYSER, non-carbonated, bottled, water",0
+4891,"Beans, without salt, drained, boiled, cooked, green, snap",35
+4899,"Babyfood, without added fluoride., GERBER, bottled, water",0
+4900,"Corn, without salt, drained, boiled, cooked, white, sweet",97
+4911,"Cereals ready-to-eat, ORGANIC PROMISE Autumn Wheat, KASHI",338
+4914,"MISSION FOODS, 8 inch, Soft Taco, MISSION Flour Tortillas",287
+4924,"CAMPBELL'S, condensed, Chicken Noodle Soup, Red and White",47
+4933,"Pears, solids and liquids, extra light syrup pack, canned",47
+4951,"Oil, woks and light frying, canola for salads, industrial",884
+4952,"Beans, drained solids, no salt added, canned, green, snap",22
+4990,"Beverages, prepared with water, unsweetened, instant, tea",1
+5010,"Lemonade, prepared with water, white, frozen concentrate",40
+5011,"Oil, for woks and light frying, refined, soy, industrial",884
+5027,"Asparagus, without salt, drained, boiled, cooked, frozen",18
+5034,"Beverages, prepared with water, regular, instant, coffee",2
+5048,"Babyfood, strained, guava and papaya with tapioca, fruit",63
+5049,"Babyfood, strained, bananas with apples and pears, fruit",83
+5057,"Alcoholic Beverage, Cabernet Sauvignon, red, table, wine",83
+5069,"Figs, solids and liquids, extra heavy syrup pack, canned",107
+5072,"Beans, without salt, boiled, cooked, mature seeds, black",132
+5073,"PEPPERIDGE FARM, Cheddar, Baked Snack Crackers, Goldfish",457
+5083,"Beans, without salt, boiled, cooked, mature seeds, pinto",143
+5097,"Frozen novelties, restaurant-prepared, italian, ice type",53
+5116,"Seeds, without salt, dry roasted, sunflower seed kernels",582
+5117,"Seeds, without salt, oil roasted, sunflower seed kernels",592
+5125,"Corn, no salt added, cream style, canned, yellow, sweet",72
+5126,"Corn, no salt added, vacuum pack, canned, yellow, sweet",79
+5141,"Peas, without salt, boiled, cooked, mature seeds, split",118
+5144,"Beans, without salt, boiled, cooked, mature seeds, pink",149
+5150,"Soy protein concentrate, produced by alcohol extraction",328
+5152,"Alcoholic beverage, Sauvignon Blanc, white, table, wine",81
+5163,"Cereals, without salt, cooked with water, CREAM OF RICE",52
+5173,"Beverages, sweetened, lemon, ready-to-drink, black, tea",45
+5174,"Pineapple, solids and liquids, heavy syrup pack, canned",78
+5175,"Beans, without salt, boiled, cooked, mature seeds, navy",140
+5180,"Cherries, solids and liquids, water pack, canned, sweet",46
+5181,"Cherries, solids and liquids, juice pack, canned, sweet",54
+5183,"Orange-grapefruit juice, unsweetened, canned or bottled",43
+5215,"Beverages, frozen concentrate, citrus fruit juice drink",162
+5218,"Grapefruit juice, unsweetened, canned or bottled, white",34
+5220,"Yambean (jicama), without salt, drained, boiled, cooked",38
+5231,"Cranberry, raw (Alaska Native), low bush or lingenberry",55
+5237,"Jams, sweetened with fruit juice, marmalades, preserves",212
+5240,"Mushrooms, without salt, drained, boiled, cooked, white",28
+5243,"Pineapple, solids and liquids, light syrup pack, canned",52
+5264,"Mung beans, without salt, boiled, cooked, mature seeds",105
+5270,"Squash, without salt, baked, cooked, butternut, winter",40
+5271,"Corn, no salt added, vacuum pack, canned, white, sweet",79
+5272,"Corn, no salt added, cream style, canned, white, sweet",72
+5278,"Pasta, TINKYADA, cooked, brown rice flour, gluten-free",138
+5284,"Babyfood, dry fortified, Multigrain whole grain cereal",405
+5294,"Beverages, prepared with tap water, brewed, black, tea",1
+5312,"USDA Commodity Food, low saturated fat, vegetable, oil",884
+5317,"Apricots, without added sugar, stewed, sulfured, dried",85
+5345,"Rice, cooked, unenriched, parboiled, long-grain, white",123
+5346,"Jellies, any flavors, no sugar (with sodium saccharin)",121
+5353,"Alcoholic beverage, Muller Thurgau, white, table, wine",76
+5354,"Alcoholic beverage, Gewurztraminer, white, table, wine",81
+5395,"Fish, cooked (not previously frozen), Alaska, pollock",80
+5397,"Chayote, without salt, drained, boiled, cooked, fruit",24
+5399,"Cherries, drained, heavy syrup, pitted, canned, sweet",83
+5401,"Plums, solids and liquids, juice pack, purple, canned",58
+5402,"Plums, solids and liquids, water pack, purple, canned",41
+5407,"Walrus, meat and subcutaneous fat raw (Alaska Native)",282
+5410,"Grapefruit, California and Arizona, pink and red, raw",37
+5413,"Babyfood, strained, vanilla, custard pudding, dessert",85
+5420,"Peaches, without added sugar, stewed, sulfured, dried",77
+5429,"Nuts, without salt added, dry roasted, macadamia nuts",718
+5440,"Margarine, without salt, stick, composite, 80% fat, regular",717
+5456,"Wheat flour, enriched, bleached, 13% protein, white (industrial)",362
+5457,"Wheat flour, enriched, bleached, 15% protein, white (industrial)",362
+5483,"Babyfood, strained, with applesauce and bananas, oatmeal, cereal",74
+5506,"Squash, without salt, boiled, cooked, frozen, butternut, winter",39
+5510,"Nuts, without salt added, with peanuts, dry roasted, mixed nuts",607
+5518,"Cereals ready-to-eat, original spoon-size, Shredded Wheat, POST",351
+5527,"Cereals, dry, unenriched, regular and quick, yellow, corn grits",371
+5543,"Beans, without salt, boiled, cooked, mature seeds, black turtle",130
+5550,"Wheat flour, enriched, bleached, 9% protein, white (industrial)",367
+5562,"Babyfood, junior, without ascorbic acid, fruit dessert, dessert",63
+5597,"Raspberries, solids and liquids, heavy syrup pack, red, canned",91
+5602,"Cereals ready-to-eat, spoon-size, Shredded Wheat n' Bran, POST",339
+5606,"Fish, smoked and canned (Alaska Native), chinook, king, salmon",150
+5612,"Beans, without salt, boiled, cooked, mature seeds, small white",142
+5618,"Beverages, prepared with water, decaffeinated, instant, coffee",2
+5621,"Oil, all purpose salad or cooking, industrial and retail, corn",900
+5634,"Beverages, prepared with water, sweetened, lemon, instant, tea",35
+5642,"Beans, without salt, boiled, cooked, mature seeds, red, kidney",127
+5648,"Babyfood, strained, with applesauce and bananas, mixed, cereal",82
+5677,"Cocoa, HERSHEY'S European Style Cocoa, unsweetened, dry powder",410
+5694,"Squash, without salt, drained, boiled, cooked, scallop, summer",16
+5705,"Babyfood, junior, with applesauce and bananas, oatmeal, cereal",75
+5716,"Fish, canned (Alaska Native), kippered, chinook, king, salmon",266
+5725,"Cereals ready-to-eat, Big Bite, KELLOGG'S FROSTED MINI-WHEATS",350
+5729,"CAMPBELL'S, condensed, 25% Less Sodium Cream of Mushroom Soup",89
+5761,"Pineapple, solids and liquids, extra heavy syrup pack, canned",83
+5762,"Cherries, solids and liquids, light syrup pack, canned, sweet",67
+5766,"Lima beans, without salt, boiled, cooked, mature seeds, large",115
+5770,"Cereals ready-to-eat, CINNAMON HARVEST, KASHI ORGANIC PROMISE",336
+5793,"Babyfood, strained, bananas and pineapple with tapioca, fruit",65
+5807,"Cereals, dry, enriched, regular and quick, yellow, corn grits",368
+5819,"Peaches, solids and liquids, heavy syrup pack, canned, spiced",75
+5833,"Babyfood, strained, with applesauce and bananas, rice, cereal",80
+5836,"Corn, unprepared, kernels cut off cob, frozen, yellow, sweet",88
+5854,"Peppers, without salt, drained, boiled, cooked, green, sweet",28
+5855,"Shortening industrial, soybean (hydrogenated) and cottonseed",884
+5858,"Grapefruit, solids and liquids, water pack, canned, sections",36
+5859,"Nuts, raw (liquid expressed from grated meat), coconut cream",330
+5860,"Cereals, dry, enriched, regular and quick, white, corn grits",370
+5863,"Wheat flour, calcium-fortified, enriched, all-purpose, white",364
+5888,"Babyfood, junior, with applesauce and bananas, mixed, cereal",83
+5908,"Beverages, prepared with distilled water, brewed, black, tea",1
+5909,"GENERAL MILLS, dry, BETTY CROCKER SUPERMOIST Yellow Cake Mix",413
+5923,"Nuts, without salt added, dry roasted, hazelnuts or filberts",646
+5944,"Beverages, frozen, concentrated, non-alcoholic, Cocktail mix",287
+5952,"Apricots, solids and liquids, with skin, water pack, canned",27
+5953,"Apricots, solids and liquids, with skin, juice pack, canned",48
+5954,"Margarine-like, without salt, 20% fat, vegetable oil spread",175
+5959,"Oil, all purpose, soy ( partially hydrogenated), industrial",884
+5981,"Squash, without salt, mashed, boiled, cooked, acorn, winter",34
+5987,"Cereals, Blueberry Mini SPOONERS, MALT-O-MEAL, ready-to-eat",350
+5997,"Alcoholic beverage, Pinot Gris (Grigio), white, table, wine",83
+6008,"Cereals ready-to-eat, bagged cereal, Shredded Wheat, QUAKER",348
+6018,"Pineapple juice, undiluted, unsweetened, frozen concentrate",179
+6045,"Babyfood, junior, bananas and pineapple with tapioca, fruit",68
+6050,"Corn, unprepared, kernels cut off cob, frozen, white, sweet",88
+6073,"Peas and carrots, solids and liquids, no salt added, canned",38
+6074,"Squash, unprepared, frozen, includes skin, zucchini, summer",17
+6086,"Beverages, reduced calorie, with whitener, instant, coffee",509
+6087,"Veal, raw, separable lean and fat, boneless, whole, breast",208
+6091,"Beverages, AQUAFINA, PEPSI, non-carbonated, bottled, water",0
+6097,"Whale, subcutaneous fat (blubber) (Alaska Native), bowhead",870
+6111,"Shortening frying (heavy duty), beef tallow and cottonseed",900
+6120,"Cereals ready-to-eat, original big biscuit, Shredded Wheat, POST",337
+6124,"Beverages, prepared with water, pink, frozen concentrate, lemonade",43
+6142,"Gourd, without salt, drained, boiled, cooked, white-flowered (calabash)",15
+6145,"Alcoholic beverage, all (gin, rum, vodka, whiskey) 100 proof, distilled",295
+6149,"Fish, packed in oil (Alaska Native), air-dried, flesh, Pacific, herring",489
+6166,"Beverages, White Cranberry Strawberry Flavored Juice Drink, OCEAN SPRAY",49
+6185,"Oil, (partially hydrogenated) and cottonseed, salad or cooking, soybean",884
+6190,"Cereals ready-to-eat, bite size, KELLOGG'S FROSTED MINI-WHEATS, KELLOGG",350
+6203,"Alcoholic beverage, all (gin, rum, vodka, whiskey) 80 proof, distilled",231
+6204,"Alcoholic beverage, all (gin, rum, vodka, whiskey) 90 proof, distilled",263
+6205,"Alcoholic beverage, all (gin, rum, vodka, whiskey) 86 proof, distilled",250
+6209,"Alcoholic beverage, all (gin, rum, vodka, whiskey) 94 proof, distilled",275
+6212,"Pasta, DE BOLES, cooked, rice flour and rice bran extract, gluten-free",200
+6268,"Applesauce, without salt (includes USDA commodity), sweetened, canned",68
+6271,"Beverages, diet, lemon, ready to drink, black and green, tea, SNAPPLE",2
+6272,"Beverages, diet, peach, ready to drink, black and green, tea, SNAPPLE",2
+6274,"Lima beans, solids and liquids, no salt added, canned, immature seeds",71
+6284,"Apple juice, with added ascorbic acid, unsweetened, canned or bottled",46
+6287,"Peppers, without salt, drained, boiled, chopped, frozen, green, sweet",18
+6307,"Cherries, solids and liquids, heavy syrup pack, pitted, canned, sweet",83
+6330,"Hyacinth-beans, without salt, drained, boiled, cooked, immature seeds",50
+6332,"Cowpeas, without salt, drained, boiled, cooked, young pods with seeds",34
+6334,"Beverages, decaffeinated, prepared with tap water, brewed, black, tea",1
+6344,"Wheat flour, enriched, unbleached, 11.5% protein, white (industrial)",363
+6350,"Grapes, raw, red or green (European type, such as Thompson seedless)",69
+6351,"Babyfood, toddler fortified, instant, dry, oatmeal cereal with fruit",402
+6374,"Orange juice, with added calcium, includes from concentrate, chilled",47
+6379,"Alcoholic beverage, Gewurztraminer, late harvest, white, table, wine",108
+6386,"Wheat flour, unenriched, bleached, 11.5% protein, white (industrial)",363
+6388,"Beverages, Light Cranberry and Raspberry Flavored Juice, OCEAN SPRAY",26
+6396,"Squash, without salt, drained, boiled, cooked, all varieties, summer",20
+6405,"Babyfood, strained, without ascorbic acid, plums with tapioca, fruit",71
+6410,"Beans, without salt, boiled, cooked, mature seeds, cranberry (roman)",136
+6411,"Beans, without salt, boiled, cooked, mature seeds, all types, kidney",127
+6430,"Peas, without salt, drained, boiled, cooked, sprouted, mature seeds",98
+6434,"Babyfood, instant fortified, dry, rice with pears and apple, cereal",389
+6459,"Cherries, solids and liquids, extra heavy syrup pack, canned, sweet",102
+6477,"Beverages, sweetened, ginseng and honey, ready to drink, green, tea",30
+6487,"Peppers, without salt, drained, boiled, chopped, frozen, red, sweet",16
+6491,"Winged beans, without salt, drained, boiled, cooked, immature seeds",38
+6493,"Grapefruit juice, undiluted, unsweetened, frozen concentrate, white",146
+6495,"GEORGE WESTON BAKERIES, dry, Brownberry Sage and Onion Stuffing Mix",390
+6501,"Babyfood, junior, without ascorbic acid, prunes with tapioca, fruit",70
+6523,"Wheat flour, enriched, bleached, 11.5% protein, white (industrial)",363
+6524,"Wheat flour, enriched, unbleached, 10% protein, white (industrial)",366
+6525,"Whale, skin and subcutaneous fat (muktuk) (Alaska Native), bowhead",465
+6541,"KRAFT FOODS, dry, Coating for Pork, SHAKE 'N' BAKE ORIGINAL RECIPE",377
+6555,"Salad dressing, without salt, regular, commercial, french dressing",459
+6561,"Cereals, without salt, prepared with water, chocolate, MALT-O-MEAL",47
+6572,"Wheat flour, unenriched, bleached, 10% protein, white (industrial)",366
+6573,"Candies, Fruit and Creme, STARBURST Fruit Chews, MARS SNACKFOOD US",408
+6585,"Wheat flour, unenriched, bleached, 13% protein, white (industrial)",362
+6586,"Wheat flour, unenriched, bleached, 15% protein, white (industrial)",362
+6588,"Grapefruit, solids and liquids, light syrup pack, canned, sections",60
+6590,"Candies, Original fruits, STARBURST Fruit Chews, MARS SNACKFOOD US",408
+6599,"Babyfood, junior, without ascorbic acid, plums with tapioca, fruit",74
+6607,"Candies, Tropical fruits, STARBURST Fruit Chews, MARS SNACKFOOD US",409
+6616,"Apricots, solids and liquids, with skin, heavy syrup pack, canned",83
+6617,"Apricots, solids and liquids, with skin, light syrup pack, canned",63
+6636,"Rice, cooked without salt, unenriched, regular, long-grain, white",130
+6642,"Rice, prepared, enriched, precooked or instant, long-grain, white",124
+6646,"Cranberry juice cocktail, prepared with water, frozen concentrate",47
+6667,"Beverages, with vitamin E added, reduced sugar, fruit juice drink",39
+6685,"Wheat flour, unenriched, bleached, 9% protein, white (industrial)",367
+6692,"Beverages, decaffeinated, prepared with tap water, brewed, coffee",0
+6698,"Babyfood, strained, without ascorbic acid, fruit dessert, dessert",59
+6710,"Beans, without salt, boiled, cooked, mature seeds, great northern",118
+6768,"Beverages, DANNON Fluoride To Go, non-carbonated, bottled, water",0
+6789,"Wheat flour, enriched, bleached, 10% protein, white (industrial)",366
+6792,"Beans, drained without salt, boiled, cooked, frozen, green, snap",28
+6797,"Jams and preserves, any flavor, no sugar (with sodium saccharin)",132
+6801,"Pasta, cooked, remaining enriched semolina, 51% whole wheat, whole grain",156
+6811,"SUPPER BAKES MEAL KITS, Southwestern-Style Chicken w/rice (chicken not included)",189
+6822,"Shortening, pourable liquid fry shortening, soy (partially hydrogenated), industrial",884
+6840,"Oil, multiuse for non-dairy butter flavor, soy (partially hydrogenated), industrial",884
+6852,"CONTINENTAL MILLS, dry, Artificially Flavored, KRUSTEAZ Almond Poppyseed Muffin Mix",418
+6889,"Shortening confectionery, coconut (hydrogenated) and or palm kernel (hydrogenated)",884
+6898,"Corn, without salt, drained, boiled, cooked, kernels on cob, frozen, yellow, sweet",94
+6905,"Orange juice, with added calcium and vitamin D, includes from concentrate, chilled",47
+6915,"Oil, roasting nuts, oil sprays, principal uses candy coatings, coconut, industrial",884
+6931,"Shortening, soybean (hydrogenated) palm and cottonseed, special purpose for baking",884
+6941,"Cereals ready-to-eat, FROSTED MINI-WHEATS Bite Size Strawberry Delight, KELLOGG'S",352
+6942,"Margarine, with added vitamin D, without salt, stick, composite, 80% fat, regular",717
+6946,"PILLSBURY Golden Layer Buttermilk Biscuits, refrigerated dough, Artificial Flavor",307
+6952,"Squash, without salt, drained, boiled, cooked, crookneck and straightneck, summer",23
+6955,"Beverages, all with morro seeds, variety of brands, unprepared, dry mix, Horchata",413
+6959,"Cereals, no salt, prepared with water, QUAKER/MOTHER'S Oat Bran, Oat Bran, QUAKER",43
+6966,"Corn, without salt, drained, boiled, cooked, kernels on cob, frozen, white, sweet",94
+6998,"Oil, high oleic (primary safflower oil of commerce), salad or cooking, safflower",884
+7013,"Shortening, soy (partially hydrogenated ) for baking and confections, industrial",884
+7018,"Bread, and rice flour, rice starch, made with potato extract, white, gluten-free",320
+7031,"Corn, without salt, drained, boiled, kernels cut off cob, frozen, yellow, sweet",81
+7064,"Baking chocolate, M&M's Semisweet Chocolate Mini Baking Bits, MARS SNACKFOOD US",517
+7066,"Shortening frying (heavy duty), linoleic (less than 1%), soybean (hydrogenated)",884
+7127,"Squash, without salt, drained, boiled, cooked, includes skin, zucchini, summer",15
+7154,"Pineapple juice, diluted with 3 volume water, unsweetened, frozen concentrate",51
+7160,"Margarine-like, without salt, stick/tub/bottle, 60% fat, vegetable oil spread",533
+7194,"Pineapple juice, without added ascorbic acid, unsweetened, canned or bottled",53
+7208,"Beverages, prepared with water, frozen concentrate, citrus fruit juice drink",46
+7215,"Beverages, contains caffeine and sweeteners, cola, reduced sugar, carbonated",20
+7226,"Oil, high oleic (70%), non trans, high stability, Natreon canola, vegetable",884
+7265,"Shortening, soybean (hydrogenated), special purpose for cakes and frostings",884
+7269,"SUPPER BAKES MEAL KITS, Lemon Chicken with herb rice (chicken not included)",210
+7301,"Cereals ready-to-eat, little bites, KELLOGG'S FROSTED MINI-WHEATS, KELLOGG",351
+7310,"Orange juice, diluted with 3 volume water, unsweetened, frozen concentrate",37
+7314,"Lima beans, without salt, boiled, cooked, mature seeds, thin seeded (baby)",126
+7335,"Cowpeas (blackeyes), without salt, drained, boiled, cooked, immature seeds",97
+7343,"Fish, cheeks and soft bones (Alaska Native), eyes, head, broad, whitefish",107
+7349,"Pineapple juice, with added ascorbic acid, unsweetened, canned or bottled",53
+7355,"Cereals ready-to-eat, unfrosted bite size, KELLOGG'S MINI-WHEATS, KELLOGG",342
+7360,"Beans, without salt, boiled, cooked, mature seeds, california red, kidney",124
+7367,"Shortening, soy (partially hydrogenated ) and corn for frying, industrial",884
+7372,"Shortening cake mix, soybean (hydrogenated) and cottonseed (hydrogenated)",884
+7398,"Cereals, no salt, prepared with water, QUAKER MultiGrain Oatmeal, QUAKER",61
+7402,"Pasta, ANCIENT HARVEST, cooked, corn flour and quinoa flour, gluten-free",152
+7403,"Beverages, non-carbonated, bottled, water, DASANI, The COCA-COLA company",0
+7408,"SUPPER BAKES MEAL KITS, Cheesy Chicken with pasta (chicken not included)",198
+7409,"SUPPER BAKES MEAL KITS, Garlic Chicken with pasta (chicken not included)",220
+7414,"Shortening, soybean (hydrogenated) and palm (hydrogenated), multipurpose",884
+7425,"Cereals, without salt, prepared with water, plain, original, MALT-O-MEAL",48
+7429,"Apple juice, without added ascorbic acid, unsweetened, canned or bottled",46
+7430,"Oil, canola (partially hydrogenated) oil for deep fat frying, industrial",884
+7434,"Cereals, without salt, cooked with water, whole wheat hot natural cereal",62
+7458,"Apricots, solids and liquids, with skin, extra light syrup pack, canned",49
+7684,"Orange juice, with added calcium, diluted with 3 volume water, unsweetened, frozen concentrate",37
+7691,"Oil, principal uses popcorn and flavoring vegetables, soy (partially hydrogenated), industrial",884
+7723,"Beverages, assorted fruit flavors, sweetened, bottles, Water with added vitamins and minerals",22
+7774,"Oil, woks and light frying, principal uses salads, canola with antifoaming agent, industrial",884
+7808,"Shortening, soybean (partially hydrogenated)-cottonseed (partially hydrogenated), household",884
+7839,"Beverages, fortified with vitamin C, unsweetened, lemon, decaffeinated, instant, green, tea",378
+7893,"Cranberry juice cocktail, saccharin and corn sweetener, with calcium, low calorie, bottled",19
+7894,"Pineapple juice, C and E, with added vitamins A, unsweetened, not from concentrate, canned",50
+7899,"Cowpeas, without salt, boiled, cooked, mature seeds, common (blackeyes, crowder, southern)",116
+7908,"Cereals, without salt, cooked with water, enriched, regular and quick, yellow, corn grits",65
+7909,"Orange juice, E, D, with added calcium and vitamins A, includes from concentrate, chilled",49
+7932,"Beverages, without caffeine, with aspartame, cola or pepper-type, low calorie, carbonated",1
+7950,"Cereals, without salt, cooked with water, enriched, regular and quick, white, corn grits",71
+7967,"Cereals ready-to-eat, raisin, KELLOGG's FROSTED MINI-WHEATS Touch of Fruit in the Middle",343
+7969,"Oil, principal uses icings and fillings, palm, soy (partially hydrogenated ), industrial",884
+7971,"Cereals, without salt, microwaved, cooked with water, 1 minute cook time, CREAM OF WHEAT",55
+7993,"Oil, pourable clear fry, soy (partially hydrogenated ) and soy (winterized), industrial",884
+8006,"Seeds, from unroasted kernels (non-chemically removed seed coat), tahini, sesame butter",607
+8026,"Cereals, without salt, stove-top, cooked with water, 1 minute cook time, CREAM OF WHEAT",56
+8053,"Beverages, fortified, Revive Fruit Punch, Glaceau Vitamin Water, The COCA-COLA company",0
+8077,"Applesauce, without added ascorbic acid (includes USDA commodity), unsweetened, canned",42
+8089,"SUPPER BAKES MEAL KITS, Traditional Roast Chicken with stuffing (chicken not included)",190
+8094,"Squash, without salt, drained, boiled, cooked, frozen, includes skin, zucchini, summer",17
+8123,"SUPPER BAKES MEAL KITS, Savory Pork Chops with herb stuffing (pork chop not included)",181
+8128,"Grapefruit juice, diluted with 3 volume water, unsweetened, frozen concentrate, white",41
+8169,"Fruit cocktail, solids and liquids, water pack, canned, (peach and pineapple and pear and grape and cherry)",32
+8288,"Fruit cocktail, solids and liquids, extra light syrup, canned, (peach and pineapple and pear and grape and cherry)",45
+8328,"Cereals, without salt, cooked with water (includes boiling and microwaving), unenriched, regular and quick, oats",71
+8431,"Fruit salad, solids and liquids, heavy syrup, canned, tropical, (pineapple and papaya and banana and guava)",86
+8439,"Fruit cocktail, solids and liquids, juice pack, canned, (peach and pineapple and pear and grape and cherry)",46
+8478,"Fruit salad, solids and liquids, water pack, canned, (peach and pear and apricot and pineapple and cherry)",30
+8643,"Oil, principal use as a tortilla shortening, soy (partially hydrogenated)  and cottonseed, industrial",884
+8741,"Margarine-like, with added vitamin D, without salt, stick/tub/bottle, 60% fat, vegetable oil spread",542
+8772,"Pan Dulce, contains wheat flour and rice flour, cookie-like, Salpora de Arroz con Azucar, LA RICURA",445

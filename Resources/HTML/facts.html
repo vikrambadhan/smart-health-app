@@ -1,0 +1,58 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+	<head>
+		<title>Be Fit</title>
+        <style>
+			body
+			{
+				font-family: Arial;
+				font-size: 12px;
+    			background-image: url(../IMG/back.jpeg);
+
+  				/* Full height */
+  				height: 100%;
+
+				/* Center and scale the image nicely */
+				background-position: center;
+				background-repeat: no-repeat;
+				background-size: cover;
+			}
+			.title{
+				font-size: 200%;
+				font-weight:bold;
+				margin-bottom:20px;
+			}
+			.holder{
+				width:300px;
+				margin:0 auto;
+				padding: 10px;
+			}
+		</style>
+        <script src="https://platform.fatsecret.com/js/?key=44792edd663b4fa29c35c11661de8e6a&theme=green"></script>
+		<script>
+            fatsecret.setCanvasUrl("food.get", "food.html");
+			function doLoad(){
+				fatsecret.setContainer("my_container");
+				fatsecret.setCanvas("home");
+                //fatsecret.setCanvas("food.get", {food_id: 1677});
+			}
+		</script>
+     <script>
+            fatsecret.variables.navOptions = fatsecret.navFeatures.home;//| fatsecret.navFeatures.diet_calendar;
+    </script>
+	</head>
+	<body onload="doLoad()">
+		<div style="width:500px;margin:0 auto;">
+			<div id="my_container" class="fatsecret_container">
+			</div>
+		</div>
+
+        <!-- <div class="holder">
+			<div class="title"><script>fatsecret.writeHolder("foodtitle");</script></div>
+			<script>fatsecret.writeHolder("nutritionpanel");</script>
+			<div id="container"></div>
+		</div> -->
+	</body>
+</html>

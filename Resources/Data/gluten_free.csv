@@ -1,0 +1,710 @@
+meal_id,name,calories
+63,"Bread, toasted, wheat",313
+91,"Crackers, whole-wheat",427
+160,Barley flour or meal,345
+162,"Garlic bread, frozen",350
+171,"Rolls, wheat, dinner",273
+179,"Bread, cracked-wheat",260
+181,"Barley, raw, pearled",352
+222,"Bread, toasted, rye",284
+231,"Bread sticks, plain",412
+234,"Bread, pumpernickel",250
+242,"Bread, toasted, egg",315
+295,"Bread, white wheat",238
+299,"Rolls, rye, dinner",286
+326,Vital wheat gluten,370
+346,"Rye flour, medium",349
+348,"Bread, wheat bran",248
+353,Barley malt flour,361
+370,"Wheat germ, crude",360
+371,"Wheat, hard white",342
+372,"Wheat bran, crude",216
+394,"Wheat, soft white",340
+405,"Bread, rice bran",243
+417,"Rye flour, light",357
+450,"Oil, wheat germ",884
+451,"Bread, oat bran",236
+458,"Rye flour, dark",325
+469,"Breadfruit, raw",103
+477,"Wheat, sprouted",198
+481,"Bread, cinnamon",253
+495,"Bread, oatmeal",269
+496,"Bread, italian",271
+509,"Barley, hulled",354
+550,"Bagels, wheat",250
+563,"Bread, cheese",408
+564,"Bread, potato",266
+589,"Bread, wheat",267
+598,"Wheat, durum",339
+608,Phyllo dough,299
+643,"Bread, rye",259
+651,"Bread, egg",287
+652,Buckwheat,343
+656,Rye grain,338
+677,Oats,389
+683,"Wheat flour, whole-grain",340
+717,"Crustaceans, raw, queen, crab",90
+718,"Wheat, cooked, KAMUT khorasan",132
+766,"Bread, bollilo, Mexican, roll",318
+774,"English muffins, whole-wheat",203
+776,"Crackers, wheat, melba toast",374
+778,"Crackers, plain, wafers, rye",334
+796,"PEPPERIDGE FARM, White Bread",280
+808,"Tennis Bread, plain (Apache)",258
+827,"Bread, toasted, pumpernickel",275
+828,"Bread, enriched, white, pita",275
+830,"Muffins, dry mix, wheat bran",396
+836,"Buckwheat flour, whole-groat",335
+863,"Crackers, whole-wheat, matzo",351
+869,"Seeds, raw, breadfruit seeds",191
+877,"Crustaceans, raw, blue, crab",87
+880,"Crackers, reduced fat, wheat",444
+898,"Bread, rye, reduced-calorie",203
+939,"Bread, canned, boston brown",195
+1007,"Bread, toasted, wheat germ",293
+1008,"Bread, kneel down (Navajo)",195
+1014,"Cake, dry mix, gingerbread",437
+1020,"Rolls, whole-wheat, dinner",266
+1046,"Pasta, cooked, whole-wheat",149
+1059,"Bread, unenriched, raisin",274
+1076,"Bread, toasted, rice bran",264
+1108,"Crackers, rye, crispbread",366
+1116,"Crackers, low salt, wheat",473
+1139,Rice and Wheat cereal bar,409
+1149,"Bread, toasted, oat bran",259
+1188,"Bread, whole-wheat, pita",262
+1197,"Crackers, regular, wheat",455
+1262,"Bread, enriched, raisin",274
+1263,"Bread, toasted, oatmeal",292
+1278,"Barley, cooked, pearled",123
+1295,"Pasta, dry, whole-wheat",352
+1308,"English muffins, wheat",223
+1315,"Bread, sprouted, wheat",188
+1327,"Cereals, dry, WHEATENA",357
+1353,"Wheat, hard red spring",329
+1354,"Wheat, soft red winter",331
+1355,"Wheat, hard red winter",327
+1372,"KEEBLER, Wheat Crackers, TOASTEDS",466
+1392,"Crustaceans, raw, alaska king, crab",84
+1398,"Bread, sweet yeast bread, pan dulce",367
+1418,"Cookies, refrigerated dough, sugar",436
+1452,"Bread stuffing, dry mix, cornbread",389
+1466,"Doughnuts, glazed, french crullers",412
+1484,"Crackers, reduced fat, whole-wheat",416
+1497,"Wheat flour, enriched, cake, white",362
+1510,"Focaccia, plain, Italian flatbread",249
+1524,"Frybread, made with lard (Apache)",309
+1554,"Frybread, made with lard (Navajo)",330
+1556,"PEPPERIDGE FARM, Deli Swirl Bread",247
+1578,"Crustaceans, raw, dungeness, crab",86
+1580,"Bread, somiviki (Hopi), blue corn",186
+1589,"Seeds, dried, breadnut tree seeds",367
+1593,"Chicken, fried, breaded, meatless",234
+1601,"Buckwheat groats, cooked, roasted",92
+1632,"Soup, ready to serve, beef barley",52
+1636,"Pie crust, dry mix, standard-type",518
+1660,"Bread crumbs, plain, grated, dry",395
+1690,"Cereals, Dry, Quick Oats, QUAKER",371
+1691,"Cookies, reduced fat, shortbread",451
+1695,"Seeds, roasted, breadfruit seeds",207
+1723,"Bread, oat bran, reduced-calorie",201
+1724,"Bread, toasted, enriched, raisin",297
+1725,"Bread, protein (includes gluten)",245
+1782,"English muffins, toasted, wheat",243
+1787,"Crackers, seasoned, wafers, rye",381
+1794,"Bread, oatmeal, reduced-calorie",210
+1804,"Bread, toasted, sprouted, wheat",205
+1818,"Crustaceans, canned, blue, crab",83
+1819,"Wheat, uncooked, KAMUT khorasan",337
+1831,"Seeds, boiled, breadfruit seeds",168
+1832,"Seeds, raw, breadnut tree seeds",217
+1854,"Crackers, low salt, whole-wheat",443
+1874,"Wheat flours, unenriched, bread",361
+1902,"Buckwheat groats, dry, roasted",346
+1912,"Bread, unenriched, white, pita",275
+1947,"Bread stuffing, dry mix, bread",386
+2020,"Bread, wheat, reduced-calorie",217
+2021,"Bread, white, reduced-calorie",207
+2040,"KEEBLER, Wheat Crackers, TOWN HOUSE",489
+2065,"PIZZA HUT 14"" Pepperoni Pizza, Pan Crust",291
+2073,"Pancakes, incomplete, dry mix, buckwheat",340
+2097,"PAPA JOHN'S 14"" Cheese Pizza, Thin Crust",295
+2111,"Bread, prepared from recipe, irish soda",290
+2116,"Turkey sticks, fried, battered, breaded",279
+2129,"Cake, prepared from recipe, gingerbread",356
+2144,"Pie crust, baked, regular, refrigerated",506
+2148,"Babyfood, dry fortified, barley, cereal",376
+2222,"PIZZA HUT, parmesan garlic, breadstick",343
+2248,"PIZZA HUT 14"" Sausage Pizza, Pan Crust",287
+2300,"MURRAY, Shortbread Cookies, SUGAR FREE",431
+2350,"PEPPERIDGE FARM, Cinnamon Swirl Bread",300
+2351,"English muffins, toasted, whole-wheat",221
+2393,"Cereals, dry, instant, CREAM OF WHEAT",366
+2421,"Fast foods, breaded and fried, shrimp",308
+2430,"PIZZA HUT 12"" Cheese Pizza, Pan Crust",280
+2465,"PIZZA HUT 14"" Cheese Pizza, Pan Crust",276
+2481,"Bread, whole wheat, french or vienna",239
+2499,"MURRAY, Shortbread Bites, SUGAR FREE",371
+2563,"Cereals, cooked with water, WHEATENA",56
+2565,"Cookies, refrigerated dough, oatmeal",424
+2572,"Wheat flour, soft wheat, whole-grain",332
+2610,"Snacks, rye, brown rice, rice cakes",386
+2627,"PEPPERIDGE FARM, Pumpernickel Bread",259
+2651,"Crustaceans, raw, northern, lobster",77
+2687,"Bread crumbs, seasoned, grated, dry",383
+2701,"Wheat flour, enriched, bread, white",361
+2725,"Crustaceans, canned, mixed species, shrimp",100
+2756,"MURRAY, Pecan Shortbread Cookies, SUGAR FREE",514
+2789,"PEPPERIDGE FARM, Jewish Rye Bread (Seedless)",253
+2790,"Bread stuffing, prepared, dry mix, cornbread",179
+2818,"Cereals, dry, whole wheat hot natural cereal",342
+2820,"Bread, french or vienna (includes sourdough)",272
+2830,"Snacks, unsalted, wheat-based, sesame sticks",541
+2844,"Beef, raw, sweetbread, imported, New Zealand",303
+2859,"Lamb, raw, sweetbread, imported, New Zealand",72
+2869,"PAPA JOHN'S 14"" Cheese Pizza, Original Crust",260
+2877,"Chicken, raw, skin only, broilers or fryers",349
+2878,"Chicken, raw, meat only, broilers or fryers",119
+2925,"KEEBLER, Simply Shortbread Cookies, SANDIES",528
+2931,"Crustaceans, moist heat, cooked, blue, crab",83
+2937,"PEPPERIDGE FARM, Whole Grain 15 Grain Bread",270
+2953,"KEEBLER, Cashew Shortbread Cookies, SANDIES",535
+2956,"Wheat flour, unenriched, all-purpose, white",364
+2967,"Cookies, baked, refrigerated dough, oatmeal",471
+2974,"Cookies, refrigerated dough, chocolate chip",451
+3008,"LITTLE CAESARS 14"" Cheese Pizza, Thin Crust",309
+3029,"Wheat flour, enriched, tortilla mix, white",405
+3036,"Chicken, reheated, breaded, frozen, thighs",334
+3053,"KEEBLER, Shortbread Pie Crust, READY CRUST",502
+3064,"Bread, toasted, (includes gluten), protein",270
+3068,"PEPPERIDGE FARM, Farmhouse Sourdough Bread",269
+3069,"Breakfast bar, corn flake crust with fruit",377
+3070,"Snacks, salted, wheat-based, sesame sticks",541
+3084,"Pancakes, incomplete, dry mix, whole wheat",350
+3123,"KEEBLER, Pecan Shortbread Cookies, SANDIES",541
+3129,"Cookies, refrigerated dough, peanut butter",458
+3137,"Fast foods, breaded and fried, onion rings",411
+3139,"PEPPERIDGE FARM, Whole Grain Oatmeal Bread",258
+3152,"Pancakes, incomplete, dry mix, whole-wheat",344
+3153,"Cereals, Dry, Quick Oats with Iron, QUAKER",371
+3161,"KEEBLER, Cheese on Wheat Sandwich Crackers",499
+3163,"Chicken tenders, prepared, frozen, breaded",240
+3178,"Piki bread, made from blue cornmeal (Hopi)",390
+3187,"Bread, commercially prepared, whole-wheat",252
+3189,"KEEBLER, Honey Wheat Crackers, WHEATABLES",482
+3194,"Cookies, baked, refrigerated dough, sugar",489
+3199,"Bread, toasted, oat bran, reduced-calorie",239
+3200,"KEEBLER, Chocolate Pie Crust, READY CRUST",490
+3202,"Chicken breast tenders, uncooked, breaded",263
+3211,"T.G.I. FRIDAY'S, breaded, FRIDAY'S Shrimp",302
+3213,Soy sauce made from soy and wheat (shoyu),53
+3241,"Chicken, raw, giblets, broilers or fryers",124
+3248,"Biscuits, refrigerated dough, mixed grain",263
+3255,"KEEBLER, Holiday, Gingerbread Men Cookies",444
+3262,"PIZZA HUT 14"" Cheese Pizza, Stuffed Crust",274
+3268,"Pie crust, unbaked, regular, refrigerated",445
+3286,"Snacks, buckwheat, brown rice, rice cakes",380
+3296,"Bread, multi-grain (includes whole-grain)",265
+3297,"KEEBLER, Saltines with Whole Wheat, ZESTA",416
+3314,"Bread, prepared from recipe, whole-wheat",278
+3318,"PEPPERIDGE FARM, Light Style Wheat Bread",256
+3340,"PEPPERIDGE FARM, Farmhouse Oatmeal Bread",275
+3342,"Rolls, whole wheat, hamburger or hot dog",269
+3347,"Soup, condensed, canned, mushroom barley",61
+3362,"KASHI, Original, H2H Woven Wheat Cracker",396
+3363,"Bread stuffing, prepared, dry mix, bread",195
+3393,"PIZZA HUT 12"" Pepperoni Pizza, Pan Crust",298
+3398,"PEPPERIDGE FARM, Seeded Jewish Rye Bread",256
+3402,"Cereals, dry, plain, fortified, instant, oats",362
+3404,"Crustaceans, raw, mixed species, spiny lobster",112
+3413,"PIZZA HUT 12"" Pepperoni Pizza, Hand-Tossed Crust",280
+3416,"PIZZA HUT 14"" Sausage Pizza, THIN 'N CRISPY Crust",323
+3435,"Cookies, baked, refrigerated dough, peanut butter",503
+3438,"PEPPERIDGE FARM, 100% Whole Wheat Hamburger Buns",257
+3447,"Crackers, sandwich-type with cheese filling, rye",481
+3448,"Restaurant, bunuelos (fried yeast bread), Latino",462
+3451,"Crustaceans, moist heat, cooked, dungeness, crab",110
+3474,"Rolls, wheat/cracked wheat, hamburger or hot dog",269
+3475,"DENNY'S, fried, battered or breaded, fish fillet",234
+3477,"Pizza, cooked, frozen, thick crust, meat topping",274
+3489,"CAMPBELL'S CHUNKY Soups, Hearty Beef Barley Soup",56
+3491,"Crustaceans, home recipe, crab cakes, blue, crab",155
+3512,"Crustaceans, raw (not previously frozen), shrimp",85
+3524,"Cereals, dry, 1 minute cook time, CREAM OF WHEAT",359
+3527,"Chicken, raw, meat only, leg, broilers or fryers",120
+3534,"PIZZA HUT 12"" Cheese Pizza, THIN 'N CRISPY Crust",303
+3543,"Cereals ready-to-eat, plain, toasted, wheat germ",382
+3552,"PIZZA HUT 14"" Pepperoni Pizza, Hand-Tossed Crust",291
+3556,"Cereals, dry, Whole Wheat Natural Cereal, QUAKER",333
+3571,"DOMINO'S 14"" Pepperoni Pizza, Crunchy Thin Crust",328
+3589,"PIZZA HUT 14"" Cheese Pizza, THIN 'N CRISPY Crust",306
+3597,"School Lunch, whole grain breaded, chicken patty",246
+3601,"Chicken, roasted, meat only, broilers or fryers",190
+3628,"POPEYES, Skin and Breading, Mild, Fried Chicken",433
+3652,"Crustaceans, raw, wild, mixed species, crayfish",77
+3678,"Cereals, with salt, cooked with water, WHEATENA",59
+3682,"Chicken, raw, meat and skin, broilers or fryers",215
+3684,"Crackers, with whole wheat, standard snack-type",463
+3690,"Chicken, raw, separable fat, broilers or fryers",629
+3711,"Cereals ready-to-eat, Wheat CHEX, GENERAL MILLS",345
+3733,"PAPA JOHN'S 14"" The Works Pizza, Original Crust",240
+3740,"PAPA JOHN'S 14"" Pepperoni Pizza, Original Crust",275
+3744,"Bread, pan de torta salvadoran, pound cake type",390
+3751,"Chicken, stewed, meat only, broilers or fryers",177
+3813,"Pie Crust, Ready Crust, Chocolate, Cookie-type",484
+3823,"Doughnuts, sugared or glazed, plain, cake-type",426
+3830,"Crackers, with cheese filling, sandwich, wheat",497
+3838,"KASHI, Roasted Garlic, H2H Woven Wheat Cracker",440
+3863,"Cereals ready-to-eat, fortified, puffed, wheat",364
+3885,"PIZZA HUT 14"" Sausage Pizza, Hand-Tossed Crust",287
+3886,"DOMINO'S 14"" Sausage Pizza, Crunchy Thin Crust",319
+3948,"Tortillas, whole wheat, ready-to-bake or -fry",310
+3967,"PEPPERIDGE FARM, Farmhouse Hearty White Bread",267
+3991,"Doughnuts, with jelly filling, yeast-leavened",340
+3992,"Doughnuts, with creme filling, yeast-leavened",361
+4008,"DOMINO'S 14"" Cheese Pizza, Crunchy Thin Crust",298
+4009,"PIZZA HUT 12"" Cheese Pizza, Hand-Tossed Crust",271
+4017,"Cereals ready-to-eat, WHEATIES, GENERAL MILLS",353
+4054,"PIZZA HUT 14"" Cheese Pizza, Hand-Tossed Crust",275
+4065,"PEPPERIDGE FARM, Raisin Cinnamon Swirl Bread",286
+4075,"Bread, toasted, commercially prepared, white",290
+4078,"Crustaceans, moist heat, cooked, queen, crab",115
+4096,"DOMINO'S 14"" Sausage Pizza, Classic Hand-Tossed Crust",273
+4106,"Wheat flour, unbleached, enriched, all-purpose, white",364
+4121,"Chicken, raw, meat and skin, back, broilers or fryers",319
+4126,"KEEBLER, bite size, Pecan Shortbread Cookies, SANDIES",547
+4127,"Crackers, with peanut butter filling, sandwich, wheat",495
+4132,"Chicken, raw, meat and skin, neck, broilers or fryers",297
+4146,"Chicken, raw, meat and skin, wing, broilers or fryers",191
+4156,"Soy sauce made from soy and wheat (shoyu), low sodium",57
+4163,"Pie crust, baked, prepared from recipe, standard-type",527
+4179,"Formulated bar, oats and chocolate, chewy, high fiber",350
+4191,"Chicken, raw, meat and skin, leg, broilers or fryers",214
+4220,"Bread, commercially prepared, plain, chapati or roti",297
+4225,"Cereals, dry, not fortified, regular and quick, oats",379
+4227,"DOMINO'S 14"" Sausage Pizza, Ultimate Deep Dish Crust",277
+4229,"Mollusks, breaded and fried, cooked, eastern, oyster",199
+4232,"Pancakes, prepared, incomplete, dry mix, whole-wheat",208
+4260,"Pizza, cooked, frozen, regular crust, cheese topping",268
+4276,"Cereals, dry, 2 1/2 minute cook time, CREAM OF WHEAT",355
+4278,"PIZZA HUT 12"" Super Supreme Pizza, Hand-Tossed Crust",243
+4279,"DOMINO'S 14"" Cheese Pizza, Classic Hand-Tossed Crust",257
+4286,"Cereals ready-to-eat, Honey Nut Shredded Wheat, POST",373
+4308,"PEPPERIDGE FARM, Whole Grain Honey Whole Wheat Bread",263
+4320,"PIZZA HUT 14"" Super Supreme Pizza, Hand-Tossed Crust",248
+4326,"UDI'S, Soft & Hearty Whole Grain Bread, Gluten Free",309
+4335,"SCHAR, Classic White Bread, Wheat-Free, Gluten-Free",240
+4338,"Waffles, ready-to-heat, frozen, lowfat, whole wheat",257
+4341,"Chicken breast tenders, microwaved, cooked, breaded",252
+4348,"PEPPERIDGE FARM, Whole Grain 100% Whole Wheat Bread",263
+4364,"RUDI'S, Original Sandwich Bread, Gluten-Free Bakery",320
+4377,"Pie Crust, Ready Crust, Graham Cracker, Cookie-type",501
+4378,"Chicken, fried, cooked, giblets, broilers or fryers",277
+4379,"Onion rings, unprepared, frozen, par fried, breaded",258
+4387,"Crustaceans, cooked (not previously frozen), shrimp",99
+4388,"Pizza, cooked, frozen, rising crust, cheese topping",260
+4407,"DOMINO'S 14"" Cheese Pizza, Ultimate Deep Dish Crust",265
+4409,"Cereals, dry, Banana Bread, Instant Oatmeal, QUAKER",368
+4416,"Restaurant, breaded and fried, shrimp, family style",308
+4431,"Wheat flour, bleached, enriched, all-purpose, white",364
+4435,"PIZZA HUT 14"" Pepperoni Pizza, THIN 'N CRISPY Crust",333
+4444,"Snacks, unsalted, buckwheat, brown rice, rice cakes",380
+4453,"KFC, Skin and Breading, EXTRA CRISPY, Fried Chicken",464
+4461,"KELLOGG'S, Gingerbread Toaster Pastries, POP-TARTS",393
+4470,"Bread, toasted, commercially prepared, whole-wheat",306
+4474,"Crackers, rye (includes pumpernickel), melba toast",389
+4475,"Cereals, dry, Farina Hot Wheat Cereal, MALT-O-MEAL",365
+4483,"Bread, toasted (includes whole-grain), multi-grain",288
+4516,"Crustaceans, moist heat, cooked, northern, lobster",89
+4531,"Babyfood, prepared with whole milk, barley, cereal",84
+4547,"Doughnuts, sugared or glazed, chocolate, cake-type",417
+4573,"Fish, breaded and fried, cooked, Atlantic, croaker",221
+4575,"Cookies, baked, refrigerated dough, chocolate chip",492
+4599,"Pie crust, baked, prepared, dry mix, standard-type",501
+4606,"Crustaceans, moist heat, cooked, alaska king, crab",97
+4623,"School Lunch, whole grain breaded, chicken nuggets",270
+4632,"Crustaceans, raw, farmed, mixed species, crayfish",72
+4633,"Bread, toasted, prepared from recipe, whole-wheat",305
+4637,"Chicken, raw, meat only, back, broilers or fryers",137
+4640,"PEPPERIDGE FARM, Farmhouse 100% Whole Wheat Bread",269
+4646,"Fish, breaded and fried, cooked, channel, catfish",229
+4647,"Cookies, pecan, commercially prepared, shortbread",542
+4648,"Cookies, plain, commercially prepared, shortbread",514
+4654,"Pizza, cooked, frozen, thin crust, cheese topping",263
+4669,"PILLSBURY, refrigerated dough, Crusty French Loaf",243
+4673,"KEEBLER, Honey Wheat, Snack Sticks, CLUB Crackers",471
+4675,"Cereals ready-to-eat, QUAKER Puffed Wheat, QUAKER",366
+4726,"Chicken, raw, meat only, neck, broilers or fryers",154
+4736,"Chicken, raw, meat only, wing, broilers or fryers",126
+4764,"Shortening bread, soybean (hydrogenated) and cottonseed",884
+4808,"Chicken, raw, meat and skin, drumstick, broilers or fryers",161
+4820,"KEEBLER, Dark Chocolate Almond Shortbread Cookies, SANDIES",540
+4827,"Chicken, fried, cooked, meat only, leg, broilers or fryers",208
+4854,"Nuts, with salt added, unflavored, wheat-based, formulated",622
+4856,"SUBWAY, meatball marinara sub on white bread (no toppings)",219
+4863,"Bread, frozen, commercially prepared, whole wheat, paratha",326
+4876,"Chicken, raw, meat and skin, dark meat, broilers or fryers",237
+4878,"UDI'S, Soft & Delicious White Sandwich Bread, Gluten Free",298
+4901,"Pie crust, enriched, ready-to-bake, frozen, standard-type",457
+4911,"Cereals ready-to-eat, ORGANIC PROMISE Autumn Wheat, KASHI",338
+4938,"PILLSBURY GRANDS, refrigerated dough, Buttermilk Biscuits",293
+4949,"Babyfood, dry fortified, with apples, whole wheat, cereal",402
+4956,"Soup, ready to serve, traditional, beef barley, PROGRESSO",47
+4991,"KEEBLER, Reduced Fat, Graham Pie Crust (10""), READY CRUST",472
+4998,"LITTLE CAESARS 14"" Pepperoni Pizza, Large Deep Dish Crust",265
+5009,"Doughnuts, chocolate-coated or frosted, plain, cake-type",452
+5015,"Bread, made with margarine, prepared from recipe, banana",326
+5032,"Bread, no salt, low sodium, commercially prepared, white",267
+5042,"PILLSBURY, refrigerated dough, Cinnamon Rolls with Icing",330
+5058,"Cereals, dry, 10 minute cooking, regular, CREAM OF WHEAT",370
+5112,"Mollusks, breaded and fried, cooked, mixed species, clam",202
+5120,"Cereals ready-to-eat, RALSTON Enriched Wheat Bran flakes",310
+5124,"Chicken, roasted, cooked, skin only, broilers or fryers",454
+5134,"KEEBLER, Roasted Almond, Nut Crisp Crackers, WHEATABLES",472
+5139,"Chicken, raw, meat and skin, breast, broilers or fryers",172
+5148,"Muffins, toasted, toaster-type with raisins, wheat bran",313
+5153,"Pizza, cooked, frozen, regular crust, pepperoni topping",274
+5159,"Bread, refrigerated, commercially prepared, plain, naan",291
+5192,"USDA Commodity, heated, frozen, breaded, salmon nuggets",212
+5200,"KEEBLER, Reduced Fat, Pecan Shortbread Cookies, SANDIES",488
+5210,"AUSTIN, sandwich-type, Cheddar Cheese on Wheat Crackers",495
+5226,"Beef, boiled, cooked, sweetbread, imported, New Zealand",318
+5229,"SUBWAY, tuna sub on white bread with lettuce and tomato",221
+5242,"Sweet rolls, refrigerated dough with frosting, cinnamon",333
+5244,"Pie crust, unbaked, prepared from recipe, standard-type",469
+5248,"Bread, salvadoran sweet cheese (quesadilla salvadorena)",374
+5249,"Chicken, raw, meat only, light meat, broilers or fryers",114
+5250,"DOMINO'S 14"" Pepperoni Pizza, Classic Hand-Tossed Crust",273
+5254,"Chicken, stewed, cooked, skin only, broilers or fryers",363
+5262,"KEEBLER, Toasted Pecan, Nut Crisp Crackers, WHEATABLES",483
+5269,"Chicken, raw, meat and skin, thigh, broilers or fryers",221
+5305,"Crackers, whole wheat (includes multi-grain), saltines",398
+5306,"KFC, Skin and Breading, ORIGINAL RECIPE, Fried Chicken",384
+5309,"Chicken, simmered, cooked, giblets, broilers or fryers",157
+5318,"Cereals ready-to-eat, Sweetened WHEAT-FULS, MOM'S BEST",373
+5327,"Chicken, raw, meat only, dark meat, broilers or fryers",125
+5338,"Wheat flour, enriched, self-rising, all-purpose, white",354
+5384,"LITTLE CAESARS 14"" Cheese Pizza, Large Deep Dish Crust",263
+5385,"Turkey, roasted, cooked, meat and skin, fryer-roasters",172
+5390,"DOMINO'S 14"" Pepperoni Pizza, Ultimate Deep Dish Crust",283
+5394,"Chicken, fried, cooked, meat only, broilers or fryers",219
+5403,"Restaurant, arepa (unleavened cornmeal bread), Latino",219
+5411,"Bread, toasted (includes sourdough), french or vienna",319
+5432,"PILLSBURY, refrigerated dough, Chocolate Chip Cookies",450
+5441,"Chicken, stewed, cooked, meat only, leg, broilers or fryers",185
+5453,"Soup, prepared with equal volume water, canned, mushroom barley",30
+5455,"Cereals, dry, Maple & Brown Sugar Hot Wheat Cereal, MALT-O-MEAL",368
+5456,"Wheat flour, enriched, bleached, 13% protein, white (industrial)",362
+5457,"Wheat flour, enriched, bleached, 15% protein, white (industrial)",362
+5459,"Chicken, stewed, cooked, meat and skin, wing, broilers or fryers",249
+5462,"Fast Food, thin crust, pepperoni topping, 14"" pizza, Pizza Chain",331
+5463,"Fast foods, meatball marinara on white bread, submarine sandwich",219
+5472,"LITTLE CAESARS 14"" Original Round Pepperoni Pizza, Regular Crust",273
+5482,"DIGIORNO Pizza, baked, frozen, thin crispy crust, cheese topping",247
+5489,"Doughnuts, plain (includes unsugared, old-fashioned), cake-type",434
+5490,"Chicken, stewed, cooked, meat and skin, leg, broilers or fryers",220
+5492,"Bread, made with low fat (2%) milk, prepared from recipe, white",285
+5498,"Pizza, cooked, frozen, rising crust, meat and vegetable topping",271
+5518,"Cereals ready-to-eat, original spoon-size, Shredded Wheat, POST",351
+5523,"Cereals ready-to-eat, with almonds, HONEY BUNCHES OF OATS, POST",409
+5532,"Cereals, dry, with cinnamon and spice, fortified, instant, oats",369
+5534,"POPEYES, meat and skin with breading, Wing, Mild, Fried Chicken",338
+5548,"Chicken, roasted, cooked, meat only, breast, broilers or fryers",165
+5550,"Wheat flour, enriched, bleached, 9% protein, white (industrial)",367
+5564,"Pie crust, made with enriched flour, unbaked, frozen, deep dish",468
+5573,"Fast Food, thick crust, sausage topping, 14"" pizza, Pizza Chain",282
+5580,"Crustaceans, made from surimi, imitation, mixed species, shrimp",101
+5602,"Cereals ready-to-eat, spoon-size, Shredded Wheat n' Bran, POST",339
+5613,"Chicken, simmered, cooked, meat only, neck, broilers or fryers",179
+5614,"Chicken, roasted, cooked, meat only, thigh, broilers or fryers",179
+5635,"Fast Food, thick crust, cheese topping, 14"" pizza, Pizza Chain",271
+5636,"Crustaceans, moist heat, cooked, wild, mixed species, crayfish",82
+5649,"Fast foods, plain, boneless pieces, breaded and fried, chicken",307
+5650,"DIGIORNO Pizza, baked, frozen, rising crust, pepperoni topping",265
+5652,"Chicken, stewed, cooked, meat only, breast, broilers or fryers",151
+5668,"Bread, enriched (includes corn muffin mix), dry mix, cornbread",418
+5681,"Fast Food, thin crust, sausage topping, 14"" pizza, Pizza Chain",321
+5683,"SUBWAY, SUBWAY CLUB sub on white bread with lettuce and tomato",146
+5696,"Sweet rolls, baked, refrigerated dough with frosting, cinnamon",362
+5698,"Cereals, dry, with raisins and spice, fortified, instant, oats",360
+5707,"Chicken, batter, fried, cooked, skin only, broilers or fryers",394
+5712,"Bread, made with nonfat dry milk, prepared from recipe, white",274
+5717,"Chicken, roasted, cooked, meat only, back, broilers or fryers",239
+5719,"Crustaceans, moist heat, cooked, mixed species, spiny lobster",143
+5725,"Cereals ready-to-eat, Big Bite, KELLOGG'S FROSTED MINI-WHEATS",350
+5727,"Chicken, raw, meat only, thigh, dark meat, broilers or fryers",121
+5728,"Chicken, stewed, cooked, meat only, thigh, broilers or fryers",195
+5749,"Fast Food, thin crust, cheese topping, 14"" pizza, Pizza Chain",302
+5763,"Pie crust, made with enriched flour, baked, frozen, deep dish",521
+5768,"Chicken, fried, cooked, meat only, breast, broilers or fryers",187
+5775,"Biscuits, higher fat, refrigerated dough, plain or buttermilk",307
+5798,"SUBWAY, roast beef sub on white bread with lettuce and tomato",155
+5802,"Chicken, roasted, cooked, meat only, wing, broilers or fryers",203
+5823,"Crustaceans, breaded and fried, cooked, mixed species, shrimp",242
+5825,"Bread, refrigerated, commercially prepared, whole wheat, naan",286
+5826,"Cereals, banana bread, Weight Control Instant Oatmeal, QUAKER",361
+5827,"Cereals, dry, maple and brown sugar, fortified, instant, oats",368
+5828,"Fast Foods, meat and skin and breading, Breast, Fried Chicken",230
+5832,"LITTLE CAESARS 14"" Original Round Cheese Pizza, Regular Crust",265
+5837,"Chicken, flour, fried, cooked, skin only, broilers or fryers",502
+5845,"Chicken, stewed, cooked, meat only, back, broilers or fryers",209
+5853,"Chicken, fried, cooked, meat only, thigh, broilers or fryers",218
+5863,"Wheat flour, calcium-fortified, enriched, all-purpose, white",364
+5878,"DIGIORNO Pizza, baked, frozen, rising crust, supreme topping",255
+5881,"Pickles, sweet (includes bread and butter pickles), cucumber",91
+5882,"Biscuits, lower fat, refrigerated dough, plain or buttermilk",270
+5889,"Fast Foods, meat and skin and breading, Thigh, Fried Chicken",274
+5900,"KEEBLER, Sandies Shortbread Cookies, 100 Calorie RIGHT BITES",468
+5907,"Chicken, roasted, cooked, meat only, leg, broilers or fryers",174
+5919,"Chicken, stewed, cooked, meat only, wing, broilers or fryers",181
+5943,"Fast Foods, Skin and breading from all pieces, Fried Chicken",398
+5967,"Chicken, fried, cooked, meat only, back, broilers or fryers",288
+6008,"Cereals ready-to-eat, bagged cereal, Shredded Wheat, QUAKER",348
+6022,"Chicken, raw, meat and skin, light meat, broilers or fryers",186
+6026,"Chicken, roasted, cooked, meat and skin, broilers or fryers",239
+6029,"Fast Foods, meat and skin and breading, Wing, Fried Chicken",310
+6038,"KEEBLER, Chocolate Chip & Pecan Shortbread Cookies, SANDIES",546
+6043,"Chicken, fried, cooked, meat only, neck, broilers or fryers",229
+6052,"Pie crust, unenriched, ready-to-bake, frozen, standard-type",457
+6055,"Chicken, fried, cooked, meat only, wing, broilers or fryers",211
+6061,"SUBWAY, cold cut sub on white bread with lettuce and tomato",214
+6066,"Mollusks, breaded and fried, cooked, mixed species, scallop",216
+6077,"Crustaceans, made from surimi, imitation, alaska king, crab",95
+6081,"DIGIORNO Pizza, baked, frozen, rising crust, cheese topping",256
+6085,"Chicken, stewed, cooked, meat and skin, broilers or fryers",219
+6120,"Cereals ready-to-eat, original big biscuit, Shredded Wheat, POST",337
+6129,"Lamb, soaked and simmered, cooked, sweetbread, imported, New Zealand",144
+6137,"Cereals ready-to-eat, presweetened with nuts and fruits, wheat and bran",385
+6144,"Pasta, dry, remaining unenriched semolina, 51% whole wheat, whole grain",362
+6147,"Fast Foods, skin and breading removed, meat only, Breast, Fried Chicken",153
+6148,"CAMPBELL'S Red and White, condensed, Chicken Barley with Mushrooms Soup",71
+6155,"Chicken, stewed, meat and skin and giblets and neck, broilers or fryers",216
+6157,"Cereals ready-to-eat, KELLOGG'S ALL-BRAN COMPLETE Wheat Flakes, KELLOGG",327
+6160,"Chicken, batter, fried, cooked, meat and skin, back, broilers or fryers",331
+6167,"Chicken, batter, fried, cooked, meat and skin, neck, broilers or fryers",330
+6171,"SUBWAY, oven roasted chicken sub on white bread with lettuce and tomato",157
+6174,"Chicken, batter, fried, cooked, meat and skin, wing, broilers or fryers",324
+6187,"KFC, meat and skin with breading, Thigh, ORIGINAL RECIPE, Fried Chicken",269
+6190,"Cereals ready-to-eat, bite size, KELLOGG'S FROSTED MINI-WHEATS, KELLOGG",350
+6192,"Chicken, roasted, cooked, meat and skin, light meat, broilers or fryers",222
+6197,"Chicken, batter, fried, cooked, meat and skin, leg, broilers or fryers",273
+6198,"Soup, single brand, condensed, canned, beef with vegetables and barley",61
+6199,"Chicken, flour, fried, cooked, meat and skin, back, broilers or fryers",331
+6206,"Fast foods, prepared with garlic and parmesan cheese, soft, breadstick",343
+6216,"Cereals ready-to-eat, HONEY BUNCHES OF OATS with vanilla bunches, POST",394
+6219,"Cornmeal, enriched, with wheat flour added, bolted, self-rising, white",348
+6223,"Cereals ready-to-eat, POST HONEY BUNCHES OF OATS with cinnamon bunches",400
+6227,"Fast Foods, skin and breading removed, meat only, Thigh, Fried Chicken",178
+6234,"KFC, meat and skin with breading, Wing, ORIGINAL RECIPE, Fried Chicken",297
+6236,"DIGIORNO Pizza, baked, frozen, cheese stuffed crust, pepperoni topping",279
+6238,"Chicken, roasted, cooked, meat and skin, drumstick, broilers or fryers",191
+6239,"Chicken, raw, meat only, boneless, skinless, breast, broiler or fryers",120
+6241,"KEEBLER, Sea Salt and Olive Oil Crackers, FLATBREAD CRISPS, TOWN HOUSE",443
+6245,"Chicken, flour, fried, cooked, meat and skin, neck, broilers or fryers",332
+6251,"Chicken, flour, fried, cooked, meat and skin, wing, broilers or fryers",321
+6255,"Snacks, whole-wheat including both salted and unsalted, hard, pretzels",362
+6256,"Veal, breaded, pan-fried, cooked, separable lean only, leg (top round)",216
+6264,"Chicken, stewed, cooked, meat and skin, light meat, broilers or fryers",201
+6265,"Chicken, roasted, cooked, meat and skin, dark meat, broilers or fryers",253
+6275,"Chicken, flour, fried, cooked, meat and skin, leg, broilers or fryers",254
+6276,"Chicken, stewed, cooked, meat and skin, drumstick, broilers or fryers",204
+6283,"Pie crust, chilled, graham cracker, prepared from recipe, cookie-type",484
+6290,"Pasta, dry, remaining enriched semolina, 51% whole wheat, whole grain",361
+6304,"Fast Foods, skin and breading removed, meat only, Wing, Fried Chicken",215
+6309,"Cereals, with salt, cooked with water, whole wheat hot natural cereal",62
+6310,"KFC, meat and skin with breading, Breast, EXTRA CRISPY, Fried Chicken",268
+6326,"Cereals ready-to-eat, KRETSCHMER Honey Crunch Wheat Germ, SUN COUNTRY",372
+6327,"PILLSBURY, refrigerated dough, Artificial Flavor, Buttermilk Biscuits",236
+6337,"Chicken, stewed, cooked, meat and skin, dark meat, broilers or fryers",233
+6344,"Wheat flour, enriched, unbleached, 11.5% protein, white (industrial)",363
+6366,"POPEYES, meat and skin with breading, Drumstick, Mild, Fried Chicken",293
+6375,"Chicken, raw, meat and skin and giblets and neck, broilers or fryers",213
+6380,"Biscuits, baked, higher fat, refrigerated dough, plain or buttermilk",324
+6381,"KFC, meat and skin with breading, Thigh, EXTRA CRISPY, Fried Chicken",309
+6386,"Wheat flour, unenriched, bleached, 11.5% protein, white (industrial)",363
+6409,"Pie crust, chilled, vanilla wafer, prepared from recipe, cookie-type",531
+6425,"SUBWAY, black forest ham sub on white bread with lettuce and tomato",151
+6440,"Cereals ready-to-eat, KELLOGG'S SPECIAL K Multigrain Oats and Honey",362
+6451,"Cereals, without salt, prepared with water, instant, CREAM OF WHEAT",62
+6452,"Fast Food, regular crust, pepperoni topping, 14"" pizza, Pizza Chain",282
+6453,"English muffins, with ca prop (includes sourdough), enriched, plain",227
+6456,"DIGIORNO Pizza, baked, frozen, thin crispy crust, pepperoni topping",283
+6460,"Biscuits, baked, lower fat, refrigerated dough, plain or buttermilk",319
+6467,"Doughnuts, unenriched (includes honey buns), glazed, yeast-leavened",403
+6469,"Chicken, roasted, cooked, meat and skin, breast, broilers or fryers",197
+6472,"KFC, meat and skin with breading, Wing, EXTRA CRISPY, Fried Chicken",337
+6474,"Chicken, roasted, cooked, meat only, light meat, broilers or fryers",173
+6486,"Bread, made with low fat (2%) milk, prepared from recipe, cornbread",266
+6504,"Breakfast bars, coconut (include granola bar), raisins, sugar, oats",464
+6513,"DIGIORNO Pizza, baked, frozen, cheese stuffed crust, cheese topping",279
+6523,"Wheat flour, enriched, bleached, 11.5% protein, white (industrial)",363
+6524,"Wheat flour, enriched, unbleached, 10% protein, white (industrial)",366
+6528,"Chicken, roasted, cooked, meat and skin, thigh, broilers or fryers",232
+6563,"KELLOGG'S, Chocolate Chip Cookie Dough Toaster Pastries, POP-TARTS",387
+6564,"Chicken, stewed, cooked, meat and skin, breast, broilers or fryers",184
+6567,"Chicken, stewed, cooked, meat only, light meat, broilers or fryers",159
+6568,"Chicken, roasted, cooked, meat only, dark meat, broilers or fryers",205
+6570,"Beverages, powder, orange flavor, GATORADE, QUAKER OATS, drink mix",388
+6572,"Wheat flour, unenriched, bleached, 10% protein, white (industrial)",366
+6585,"Wheat flour, unenriched, bleached, 13% protein, white (industrial)",362
+6586,"Wheat flour, unenriched, bleached, 15% protein, white (industrial)",362
+6606,"Bread, frozen, commercially prepared, whole wheat, chapati or roti",299
+6621,"POPEYES, meat and skin with breading, Breast, Mild, Fried Chicken",274
+6622,"Chicken, stewed, cooked, meat only, drumstick, broilers or fryers",169
+6623,"Chicken, raw, meat only, drumstick, dark meat, broilers or fryers",116
+6629,"Chicken, roasted, cooked, meat and skin, back, broilers or fryers",300
+6638,"Chicken, stewed, cooked, meat and skin, thigh, broilers or fryers",232
+6655,"Cereals ready-to-eat, Regular, KRETSCHMER Wheat Germ, SUN COUNTRY",366
+6656,"Fast Food, thick crust, pepperoni topping, 14"" pizza, Pizza Chain",287
+6662,"Onion rings, heated in oven, prepared, frozen, par fried, breaded",276
+6664,"Chicken, batter, fried, cooked, meat and skin, broilers or fryers",289
+6675,"Doughnuts, enriched (includes honey buns), glazed, yeast-leavened",421
+6677,"Chicken, fried, cooked, meat only, light meat, broilers or fryers",192
+6678,"Chicken, stewed, cooked, meat only, dark meat, broilers or fryers",192
+6685,"Wheat flour, unenriched, bleached, 9% protein, white (industrial)",367
+6687,"DIGIORNO Pizza, baked, frozen, thin crispy crust, supreme topping",255
+6690,"Chicken, cooked simmered, meat and skin, neck, broilers or fryers",247
+6699,"Chicken, roasted, cooked, meat and skin, wing, broilers or fryers",254
+6701,"Restaurant, fried, battered or breaded, fish fillet, family style",219
+6703,"Fast Food, regular crust, sausage topping, 14"" pizza, Pizza Chain",280
+6719,"DOMINO'S 14"" EXTRAVAGANZZA FEAST Pizza, Classic Hand-Tossed Crust",244
+6721,"Fast Foods, meat and skin with breading, Drumstick, Fried Chicken",267
+6722,"Bread, commercially prepared (includes soft bread crumbs), white",266
+6727,"Chicken, fried, cooked, meat only, drumstick, broilers or fryers",195
+6728,"Chicken, roasted, cooked, meat and skin, leg, broilers or fryers",184
+6731,"Crustaceans, moist heat, cooked, farmed, mixed species, crayfish",87
+6733,"Chicken, stewed, cooked, meat and skin, back, broilers or fryers",258
+6734,"Pizza, cooked, frozen, regular crust, meat and vegetable topping",276
+6737,"SUBWAY, turkey breast sub on white bread with lettuce and tomato",147
+6742,"Bread, unenriched (includes corn muffin mix), dry mix, cornbread",418
+6743,"Cereals ready-to-eat, pecan bunches, HONEY BUNCHES OF OATS, POST",399
+6744,"Pie crust, baked, enriched, ready-to-bake, frozen, standard-type",508
+6749,"Bread, low sodium no salt, toasted, commercially prepared, white",293
+6752,"SUBWAY, lettuce and tomato, B.L.T. sub on white bread with bacon",205
+6754,"POPEYES, meat and skin with breading, Thigh, Mild, Fried Chicken",310
+6762,"Cereals ready-to-eat, KRETSCHMER Toasted Wheat Bran, SUN COUNTRY",200
+6774,"Chicken, flour, fried, cooked, meat and skin, broilers or fryers",269
+6775,"Fast Food, regular crust, cheese topping, 14"" pizza, Pizza Chain",266
+6784,"Chicken, fried, cooked, meat only, dark meat, broilers or fryers",239
+6789,"Wheat flour, enriched, bleached, 10% protein, white (industrial)",366
+6790,"Cereals ready-to-eat, honey roasted, HONEY BUNCHES OF OATS, POST",401
+6793,"Fast Food, stuffed crust, cheese topping, 14"" pizza, Pizza Chain",274
+6801,"Pasta, cooked, remaining enriched semolina, 51% whole wheat, whole grain",156
+6805,"KFC, meat and skin with breading, Drumstick, ORIGINAL RECIPE, Fried Chicken",239
+6831,"Cereals ready-to-eat, Bite Size, Maple & Brown Sugar, FROSTED MINI-WHEATS, KELLOGG'S",351
+6833,"Fast foods, turkey breast on white bread with lettuce and tomato, submarine sandwich",147
+6848,"English muffins, without calcium propionate (includes sourdough), unenriched, plain",235
+6907,"Chicken, braised, cooked, meat only, boneless, skinless, breast, broiler or fryers",157
+6908,"Chicken, grilled, cooked, meat only, boneless, skinless, breast, broiler or fryers",151
+6927,"SUBWAY, lettuce and tomato, steak & cheese sub on white bread with American cheese",183
+6941,"Cereals ready-to-eat, FROSTED MINI-WHEATS Bite Size Strawberry Delight, KELLOGG'S",352
+6943,"Fast foods, roast beef on white bread with lettuce and tomato, submarine sandwich",156
+6946,"PILLSBURY Golden Layer Buttermilk Biscuits, refrigerated dough, Artificial Flavor",307
+6954,"KFC, skin and breading removed, meat only, Drumstick, EXTRA CRISPY, Fried Chicken",170
+6972,"Chicken, braised, cooked, meat and skin, drumstick, dark meat, broilers or fryers",187
+6976,"KFC, skin and breading removed, meat only, Breast, ORIGINAL RECIPE, Fried Chicken",149
+6996,"English muffins, with calcium propionate (includes sourdough), unenriched, plain",235
+6997,"English muffins, without calcium propionate(includes sourdough), enriched, plain",235
+7018,"Bread, and rice flour, rice starch, made with potato extract, white, gluten-free",320
+7022,"KFC, skin and breading removed, meat only, Thigh, ORIGINAL RECIPE, Fried Chicken",175
+7023,"School Lunch, cooked, frozen, whole grain, thick crust, pepperoni topping, pizza",259
+7050,"Fast foods, cold cut on white bread with lettuce and tomato, submarine sandwich",213
+7058,"Cereals, prepared with water, with cinnamon and spice, fortified, instant, oats",96
+7060,"School Lunch, cooked, frozen, whole grain, thin crust, pepperoni topping, pizza",254
+7080,"KFC, skin and breading removed, meat only, Wing, ORIGINAL RECIPE, Fried Chicken",216
+7096,"Cereals ready-to-eat, KELLOGG's FROSTED MINI-WHEATS Bite Size Blueberry Muffin",352
+7098,"Chicken, original seasoning, rotisserie, cooked, skin only, broilers or fryers",406
+7108,"Cereals, prepared with water, with raisins and spice, fortified, instant, oats",88
+7111,"School Lunch, cooked, frozen, whole grain, thick crust, sausage topping, pizza",257
+7112,"KFC, skin and breading removed, meat only, Breast, EXTRA CRISPY, Fried Chicken",153
+7121,"Bread, made with tapioca starch and brown rice flour, whole grain, gluten-free",309
+7137,"Chicken, roasted, cooked, meat only, drumstick, dark meat, broilers or fryers",155
+7149,"POPEYES, skin and breading removed, meat only, Drumstick, Mild, Fried Chicken",170
+7150,"Cereals, without salt, cooked with water, regular (10 minute), CREAM OF WHEAT",50
+7151,"Veal, not breaded, pan-fried, cooked, separable lean and fat, leg (top round)",211
+7156,"School Lunch, cooked, frozen, whole grain, thick crust, cheese topping, pizza",254
+7157,"School Lunch, cooked, frozen, whole grain, thin crust, sausage topping, pizza",250
+7158,"KFC, skin and breading removed, meat only, Thigh, EXTRA CRISPY, Fried Chicken",179
+7171,"Chicken, braised, cooked, meat and skin, thigh, dark meat, broilers or fryers",229
+7172,"Chicken, braised, cooked, meat only, drumstick, dark meat, broilers or fryers",149
+7178,"Chicken, batter, fried, cooked, meat and skin, light meat, broilers or fryers",277
+7183,"Fast Food, regular crust, meat and vegetable topping, 14"" pizza, Pizza Chain",244
+7197,"School Lunch, cooked, frozen, whole grain, thin crust, cheese topping, pizza",247
+7199,"KFC, skin and breading removed, meat only, Wing, EXTRA CRISPY, Fried Chicken",236
+7201,"Chicken, batter, fried, cooked, meat and skin, drumstick, broilers or fryers",268
+7206,"Bread, and/or tapioca, corn starch, made with rice flour, white, gluten-free",248
+7218,"Chicken, flour, fried, cooked, meat and skin, light meat, broilers or fryers",246
+7219,"Chicken, batter, fried, cooked, meat and skin, dark meat, broilers or fryers",298
+7234,"Fast foods, tuna on white bread with lettuce and tomato, submarine sandwich",218
+7236,"Cereals ready-to-eat, chocolate, KELLOGG'S FROSTED MINI-WHEATS LITTLE BITES",354
+7247,"Chicken, flour, fried, cooked, meat and skin, drumstick, broilers or fryers",245
+7273,"Chicken, flour, fried, cooked, meat and skin, dark meat, broilers or fryers",285
+7297,"Cereals, with salt, cooked with water, regular (10 minute), CREAM OF WHEAT",50
+7299,"Pasta, cooked, remaining unenriched semolina, 51% whole wheat, whole grain",159
+7301,"Cereals ready-to-eat, little bites, KELLOGG'S FROSTED MINI-WHEATS, KELLOGG",351
+7302,"Fast Foods, skin and breading removed, meat only, Drumstick, Fried Chicken",172
+7320,"POPEYES, skin and breading removed, meat only, Breast, Mild, Fried Chicken",157
+7321,"KEEBLER, Fudge Dipped, Sandies Shortbread Cookies, 100 Calorie RIGHT BITES",462
+7332,"Fast foods, ham on white bread with lettuce and tomato, submarine sandwich",151
+7334,"Veal, not breaded, pan-fried, cooked, separable lean only, leg (top round)",183
+7348,"Chicken, batter, fried, cooked, meat and skin, breast, broilers or fryers",260
+7353,"Fast foods, and tomato on white bread, lettuce, bacon, submarine sandwich",205
+7355,"Cereals ready-to-eat, unfrosted bite size, KELLOGG'S MINI-WHEATS, KELLOGG",342
+7356,"Crustaceans, raw (may have been previously frozen), mixed species, shrimp",71
+7358,"Veal, breaded, pan-fried, cooked, separable lean and fat, leg (top round)",238
+7365,"POPEYES, skin and breading removed, meat only, Thigh, Mild, Fried Chicken",188
+7368,"Bread, and eggs, 80% margarine, prepared with 2% milk, dry mix, cornbread",330
+7374,"Cereals ready-to-eat, with real strawberries, HONEY BUNCHES OF OATS, POST",399
+7376,"Chicken, braised, cooked, meat only, thigh, dark meat, broilers or fryers",176
+7380,"LITTLE CAESARS 14"" Original Round Meat and Vegetable Pizza, Regular Crust",243
+7383,"CAMPBELL'S Red and White, condensed, Beef with Vegetables and Barley Soup",71
+7385,"Nuts, without salt, all flavors except macadamia, wheat-based, formulated",647
+7389,"Cereals ready-to-eat, Wheat and Honey, Oats, 100% Natural Granola, QUAKER",421
+7393,"Chicken, flour, fried, cooked, meat and skin, breast, broilers or fryers",222
+7397,"Chicken, batter, fried, cooked, meat and skin, thigh, broilers or fryers",277
+7401,"POPEYES, skin and breading removed, meat only, Wing, Mild, Fried Chicken",212
+7405,"Pickles, low sodium (includes bread and butter pickles), sweet, cucumber",122
+7421,"KFC, meat and skin with breading, Drumstick, EXTRA CRISPY, Fried Chicken",274
+7422,"KFC, meat and skin with breading, Breast, ORIGINAL RECIPE, Fried Chicken",231
+7423,"Chicken, roasted, meat and skin and giblets and neck, broilers or fryers",234
+7434,"Cereals, without salt, cooked with water, whole wheat hot natural cereal",62
+7440,"Bread, made with tapioca starch and brown rice flour, white, gluten-free",298
+7457,"Cereals ready-to-eat, spoon-size, lightly frosted, Shredded Wheat, POST",352
+7472,"Cornmeal, enriched, with wheat flour added, bolted, self-rising, yellow",348
+7473,"Chicken, flour, fried, cooked, meat and skin, thigh, broilers or fryers",262
+7491,"Cereals ready-to-eat, and Raisins, Honey, Wheat, QUAKER 100% Natural Granola with Oats, QUAKER",412
+7494,"Fast foods, roast beef and ham on white bread with lettuce and tomato, turkey, submarine sandwich",146
+7525,"SUBWAY, tomato and sweet onion sauce, sweet onion chicken teriyaki sub on white bread with lettuce",155
+7553,"Cereals, prepared with water (boiling water added or microwaved), plain, fortified, instant, oats",68
+7624,"Fast foods, lettuce and tomato, steak and cheese on white bread with cheese, submarine sandwich",183
+7726,"Chicken, original seasoning, rotisserie, cooked, meat and skin, drumstick, broilers or fryers",215
+7730,"Cereals, dry, quick (1-3 minutes), assorted brands including CREAM OF WHEAT, enriched, farina",360
+7776,"Cereals, without salt, microwaved, cooked with water, 2 1/2 minute cook time, CREAM OF WHEAT",52
+7781,"Chicken, raw, with added solution, meat only, boneless, skinless, breast, broilers or fryers",108
+7803,"Cereals ready-to-eat, Raspberry, KELLOGG'S FROSTED MINI-WHEATS Touch of Fruit in the Middle",342
+7831,"Cereals, without salt, stove-top, cooked with water, 2 1/2 minute cook time, CREAM OF WHEAT",56
+7844,"Fast foods, oven roasted chicken on white bread with lettuce and tomato, submarine sandwich",157
+7874,"Chicken, original seasoning, rotisserie, cooked, meat and skin, breast, broilers or fryers",184
+7907,"Chicken, original seasoning, rotisserie, cooked, meat only, drumstick, broilers or fryers",176
+7925,"Chicken, original seasoning, rotisserie, cooked, meat and skin, thigh, broilers or fryers",233
+7952,"Chicken, original seasoning, rotisserie, cooked, meat and skin, back, broilers or fryers",260
+7967,"Cereals ready-to-eat, raisin, KELLOGG's FROSTED MINI-WHEATS Touch of Fruit in the Middle",343
+7971,"Cereals, without salt, microwaved, cooked with water, 1 minute cook time, CREAM OF WHEAT",55
+7978,"Chicken, original seasoning, rotisserie, cooked, meat and skin, wing, broilers or fryers",266
+7983,"Crustaceans, moist heat (may have been previously frozen), cooked, mixed species, shrimp",119
+8019,"English muffins, with calcium propionate (includes sourdough), enriched, toasted, plain",270
+8026,"Cereals, without salt, stove-top, cooked with water, 1 minute cook time, CREAM OF WHEAT",56
+8055,"Chicken, original seasoning, rotisserie, cooked, meat only, breast, broilers or fryers",137
+8068,"Chicken, batter, fried, cooked, meat and skin and giblets and neck, broilers or fryers",291
+8110,"Chicken, original seasoning, rotisserie, cooked, meat only, thigh, broilers or fryers",196
+8119,"Chicken, flour, fried, cooked, meat and skin and giblets and neck, broilers or fryers",272
+8151,"Chicken, original seasoning, rotisserie, cooked, meat only, back, broilers or fryers",205
+8152,"Chicken, original seasoning, rotisserie, cooked, meat only, wing, broilers or fryers",197
+8159,"KFC, skin and breading removed, meat only, Drumstick, ORIGINAL RECIPE, Fried Chicken",175
+8224,"Cereals, without salt, cooked with water, quick (1-3 minutes), assorted brands including CREAM OF WHEAT, enriched, farina",55
+8226,"Cereals, with salt, cooked with water (includes boiling and microwaving), unenriched, regular and quick and instant, oats",71
+8246,"Fast foods, tomato and sweet onion sauce, sweet onion chicken teriyaki on white bread with lettuce, submarine sandwich",155
+8328,"Cereals, without salt, cooked with water (includes boiling and microwaving), unenriched, regular and quick, oats",71
+8591,"Chicken, braised, cooked, with added solution, meat only, boneless, skinless, breast, broiler or fryers",145
+8592,"Chicken, grilled, cooked, with added solution, meat only, boneless, skinless, breast, broiler or fryers",148
+8772,"Pan Dulce, contains wheat flour and rice flour, cookie-like, Salpora de Arroz con Azucar, LA RICURA",445

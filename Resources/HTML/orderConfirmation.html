@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="MyMacroChef is a premium food delivery service
+    with the mission to bring affordable and healthy meals to as many people
+    as possible.">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" href="../../Vendors/CSS/normalize.css">
+    <link rel="stylesheet" type="text/css" href="../../Vendors/CSS/Grid.css">
+    <link rel="stylesheet" type="text/css" href="../../Vendors/CSS/ionicons.css">
+    <link rel="stylesheet" type="text/css" href="../../Vendors/CSS/animate.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="../CSS/style.css">
+    <link rel="stylesheet" type="text/css" href="../CSS/queries.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="../JS/orderConfirmation.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-select@1.13.9/dist/css/bootstrap-select.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap-select@1.13.9/dist/js/bootstrap-select.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.4.1/js/bootstrap-datepicker.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.4.1/css/bootstrap-datepicker3.css"/>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:100,300,300i,400">
+    <title>Be-Fit</title>
+
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+</head>
+<body>
+<header class="headerother" style="background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../CSS/IMG/foodimage.jpg);height: auto;">
+    <nav>
+        <div class="">
+            <img src="../IMG/logo-new.png" alt="Logo" srcset="" onclick="window.open('livetracking.html', '_self');">
+            <img src="../IMG/logo.png" alt="Logo" class="logo-black" srcset="" onclick="window.open('livetracking.html', '_self');">
+            <ul id="redirect-bar" class="main-nav js--main-nav" style="float: right;margin-top: 39px;margin-right: 10px;">
+                <li><a href="../HTML/dashboard.html">Home</a></li>
+                <li><a href="profile.html">My Profile</a></li>
+                <li><a href="mealPlans.html">Meal Plans</a></li>
+                <li><a href="recommendation.html">Meal Recommendations</a></li>
+                <!--<li><a href="giftAFriend.html">Gift a Friend</a></li>-->
+                <!--<li><a href="liveTracking.html">Live Tracking</a></li>-->
+                <li><a href="aboutUs.html">About Us</a></li>
+                <li><a href="signout.html">Signout</a></li>
+            </ul>
+            <a class="mobile-nav-icon js--nav-icon"><i class="ion-navicon-round"></i></a>
+        </div>
+    </nav>
+</header>
+<div id="loading">
+    <img id="loading-image" src="../IMG/loader.gif" alt="Loading..." />
+</div>
+<section class="section-form" style="content: ' ';
+    display: block;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 600px;
+    background-image: url(../CSS/IMG/billing3.jpg);
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    background-size: cover;">
+    <div class="row" style="font-size: 13px;">
+        <div class="panel-group">
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <div class="row">
+                        <div class="row">
+                            <h2>ORDER CONFIRMATION</h2>
+                        </div>
+                        <div class="row">
+                            <div class="contact-form">
+                                <!--                <div class="row">-->
+                                <!--                    <div class="col span-2-of-3">-->
+                                <!--                        <img src="../Favicons/check-icon.png">-->
+                                <!--                        <div class="col span-2-of-3">-->
+                                <!--                            <div class="col-xs-8 col-sm-8">-->
+                                <!--                                <div class="form-group">-->
+                                <!--                                    Order Confirmed!-->
+                                <!--                                </div>-->
+                                <!--                            </div>-->
+                                <!--                        </div>-->
+                                <!--                    </div>-->
+                                <!--                </div>-->
+
+                                <!--                <div class="row">-->
+                                <!--                    <h2>ORDER Details</h2>-->
+                                <!--                </div>-->
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <img src="../IMG/logo-new.png">
+                                    </div>
+                                    <div class="col span-2-of-3">
+                                        <div class="col-xs-8 col-sm-8">
+                                            <label>MEAL NAME : </label>
+                                            <div id="mealName" class="form-group">
+                                            </div>
+                                            <label>MEAL DESCRIPTION : </label>
+                                            <div id="mealDescription" class="form-group">
+                                            </div>
+
+                                            <label>MEAL PRICE : </label>
+                                            <div id="mealPrice" class="form-group">
+                                            </div>
+
+                                            <label>MEAL FREQUENCY : </label>
+                                            <div id="mealFrequency" class="form-group">
+                                            </div>
+
+                                            <label>ORDER DATE : </label>
+                                            <div id="orderDate" class="form-group">
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--		<div id="loading">-->
+    <!--		  <img id="loading-image" src="../IMG/loader.gif" alt="Loading..." />-->
+    <!--		</div>-->
+
+    <!--		TODO : DATE RANGE -> May or may not need this.-->
+
+</section>
+
+<footer>
+    <div class="row">
+        <div class="col span-1-of-2">
+            <ul class="footer-nav">
+                <li><a href="#">About us</a></li>
+                <li><a href="#">Blog</a></li>
+                <li><a href="#">Press</a></li>
+                <li><a href="#">iOS App</a></li>
+                <li><a href="#">Android App</a></li>
+            </ul>
+        </div>
+        <div class="col span-1-of-2">
+            <ul class="social-links">
+                <li><a href="#"><i class="ion-social-facebook"></i></a></li>
+                <li><a href="#"><i class="ion-social-twitter"></i></a></li>
+                <li><a href="#"><i class="ion-social-googleplus"></i></a></li>
+                <li><a href="#"><i class="ion-social-instagram"></i></a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="row">
+        <p>
+            Copyright &copy; 2022 Be-Fit. All rights reserved.
+        </p>
+    </div>
+</footer>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/selectivizr/1.0.2/selectivizr-min.js"></script>
+<script src="../../Vendors/JS/jquery.waypoints.min.js"></script>
+</body>
+</html>

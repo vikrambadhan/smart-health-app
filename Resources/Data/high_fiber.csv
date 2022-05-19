@@ -1,0 +1,151 @@
+meal_id,name,calories
+22,"Spices, ground, savory",272
+57,"Peanut flour, low fat",428
+108,"Peppers, dried, ancho",281
+109,"Parsley, freeze-dried",271
+110,"Spices, black, pepper",251
+111,"Spices, white, pepper",296
+142,"Spices, dried, thyme",276
+149,"Spices, chili powder",282
+150,"Spices, caraway seed",333
+151,"Spices, dried, basil",233
+153,"Chives, freeze-dried",311
+156,"Spices, ground, mace",475
+157,"Spices, onion powder",341
+181,"Barley, raw, pearled",352
+183,"Spices, curry powder",325
+187,"Spices, ground, sage",315
+194,"Celery flakes, dried",319
+241,"Soy flour, defatted",327
+245,"Spices, fennel seed",345
+304,"Carrot, dehydrated",341
+307,"Soy flour, low-fat",372
+316,"Spices, poppy seed",525
+372,"Wheat bran, crude",216
+374,"Spices, dill seed",305
+404,"Corn bran, crude",224
+413,"Spearmint, dried",285
+416,"Rice bran, crude",316
+418,"Spices, bay leaf",313
+419,"Spices, cardamom",311
+458,"Rye flour, dark",325
+462,"Spices, paprika",282
+486,"Seeds, flaxseed",534
+509,"Barley, hulled",354
+542,Meat extender,311
+561,"Oat bran, raw",246
+568,Tomato powder,302
+617,Carob flour,222
+656,Rye grain,338
+675,Papad,371
+680,"Spices, dried, oregano",265
+723,"Cookies, reduced fat, oatmeal",365
+743,"Corn, steamed (Navajo), white",386
+778,"Crackers, plain, wafers, rye",334
+825,"Pinon Nuts, roasted (Navajo)",541
+849,"PACE, Dry Taco Seasoning Mix",188
+1104,"Lupins, raw, mature seeds",371
+1108,"Crackers, rye, crispbread",366
+1136,"Radishes, dried, oriental",271
+1154,"Spices, ground, turmeric",312
+1164,"Spices, ground, allspice",263
+1170,"Fungi, dried, Cloud ears",284
+1181,"Seeds, dried, chia seeds",486
+1187,"Agave, dried (Southwest)",341
+1209,"Spices, ground, cinnamon",247
+1250,"Spices, dried, marjoram",271
+1254,"Peppers, dried, pasilla",345
+1284,"Spices, dried, rosemary",331
+1319,"Spices, dried, parsley",292
+1321,"Spices, ground, nutmeg",525
+1342,"Peanut flour, defatted",327
+1349,"Shallots, freeze-dried",348
+1357,"Spices, coriander seed",298
+1358,"Spices, ground, cloves",274
+1359,"Spices, fenugreek seed",323
+1364,"Beans, raw, mature seeds, pinto",347
+1369,"Hyacinth beans, raw, mature seeds",344
+1495,"Cereals ready-to-eat, KASHI GOLEAN",311
+1607,"Peppers, freeze-dried, red, sweet",314
+1668,"Beans, raw, mature seeds, yellow",345
+1769,"Beans, raw, mature seeds, french",343
+1783,"Beans, raw, mature seeds, white",333
+1787,"Crackers, seasoned, wafers, rye",381
+1830,"Beans, raw, mature seeds, black",341
+1859,"Winged beans, raw, mature seeds",409
+1897,"Mungo beans, raw, mature seeds",341
+1917,"Cocoa, unsweetened, dry powder",228
+1945,"Beans, raw, mature seeds, navy",337
+1975,"Spices, red or cayenne, pepper",318
+2011,"Mung beans, raw, mature seeds",347
+2035,"Peppers, sun-dried, hot chile",324
+2050,"Cereals ready-to-eat, UNCLE SAM CEREAL",346
+2076,"Cereals ready-to-eat, KASHI GOOD FRIENDS",299
+2091,"Beans, raw, mature seeds, great northern",339
+2169,"Soybeans, salted, roasted, mature seeds",469
+2264,"Beans, raw, mature seeds, black turtle",339
+2269,"Cereals ready-to-eat, POST Bran Flakes",328
+2292,"Snacks, air-popped (Unsalted), popcorn",382
+2322,"Baking chocolate, squares, unsweetened",642
+2362,"Peas, raw, mature seeds, split, green",352
+2364,"Beans, raw, mature seeds, small white",336
+2415,"Beans, raw, mature seeds, red, kidney",337
+2451,"Baking chocolate, liquid, unsweetened",472
+2517,"KASHI, Zesty Salsa, Pita Crisps, TLC",381
+2546,"Lima beans, raw, mature seeds, large",338
+2624,"Peppers, freeze-dried, green, sweet",314
+2812,"Leavening agents, active dry, baker's, yeast",325
+2829,"Gums, seed gums (includes locust bean, guar)",332
+2939,"Beans, raw, mature seeds, royal red, kidney",329
+2942,"Beans, raw, mature seeds, cranberry (roman)",335
+3002,"Beans, raw, mature seeds, all types, kidney",333
+3033,"Broadbeans (fava beans), raw, mature seeds",341
+3071,"Cereals ready-to-eat, KASHI Honey Sunshine",332
+3243,"Rose Hips, wild (Northern Plains Indians)",162
+3274,"Cereals ready-to-eat, KASHI Berry Blossom",322
+3373,"KELLOGG'S, Multigrain Crackers, ALL-BRAN",415
+3503,"Beans, raw, mature seeds, california red, kidney",330
+3543,"Cereals ready-to-eat, plain, toasted, wheat germ",382
+3660,"Seaweed, dry, Canadian Cultivated EMI-TSUNOMATA",259
+3702,"Beverages, KELLOGG'S SPECIAL K20 protein powder",380
+3806,"Soybeans, no salt added, roasted, mature seeds",469
+3908,"Corn, yellow (Northern Plains Indians), dried",419
+3914,"Cocoa, plain, hi-fat or breakfast, dry powder",486
+3984,"KELLOGG'S, Garlic and Herb Crackers, ALL-BRAN",467
+4024,"Chokecherries, pitted (Shoshone Bannock), raw",156
+4117,"Cocoa, processed with alkali, unsweetened, dry powder",220
+4139,"Nuts, not sweetened, dried (desiccated), coconut meat",660
+4179,"Formulated bar, oats and chocolate, chewy, high fiber",350
+4252,"Chokecherries, pitted (Northern Plains Indians), raw",162
+4635,"Cereals ready-to-eat, QUAKER CRUNCHY BRAN, QUAKER",331
+4655,"Cereals ready-to-eat, original, BARBARA'S PUFFINS",333
+4710,"Lima beans, raw, mature seeds, thin seeded (baby)",335
+4806,"Cereals ready-to-eat, KASHI GOLEAN Vanilla Graham Clusters",330
+4817,"Cereals ready-to-eat, KELLOGG'S ALL-BRAN Original, KELLOGG",259
+4970,"Cereals ready-to-eat, KASHI GOLEAN CRISP Cinnamon Crumble",362
+5120,"Cereals ready-to-eat, RALSTON Enriched Wheat Bran flakes",310
+5392,"Wocas, yellow pond lily (Klamath), Oregon, dried seeds",361
+5449,"Cereals ready-to-eat, Organic FLAX PLUS flakes, NATURE'S PATH",350
+5530,"Cereals ready-to-eat, Caramel Delight, FIBER ONE, GENERAL MILLS",344
+5637,"Cereals ready-to-eat, HONEY CLUSTERS, FIBER ONE, GENERAL MILLS",323
+5677,"Cocoa, HERSHEY'S European Style Cocoa, unsweetened, dry powder",410
+5689,"Cereals ready-to-eat, KASHI GOLEAN CRISP Toasted Berry Crumble",368
+5791,"Cocoa, processed with alkali, hi-fat or breakfast, dry powder",479
+5810,"Seeds, without salt, roasted, whole, pumpkin and squash seeds",446
+5886,"MARY'S GONE CRACKERS, Organic Gluten Free, Original Crackers",446
+5898,"Cereals, dry, Creamy TRULY VANILLA, KASHI GO LEAN Hot Cereal",360
+5942,"Cereals, high fiber, Cinnamon Swirl, Instant Oatmeal, QUAKER",366
+5979,"Beverages, powder, cereal grain beverage, coffee substitute",360
+6033,"Cereals ready-to-eat, KELLOGG'S ALL-BRAN BRAN BUDS, KELLOGG",257
+6041,"Beverages, 3-2-1 Plan, powder, SLIMFAST Shake Mix, UNILEVER",448
+6114,"Cereals ready-to-eat, FIBER ONE Bran Cereal, GENERAL MILLS",207
+6157,"Cereals ready-to-eat, KELLOGG'S ALL-BRAN COMPLETE Wheat Flakes, KELLOGG",327
+6230,"Seeds, without salt added (decorticated), toasted, sesame seed kernels",567
+6364,"Cereals ready-to-eat, RAISIN BRAN CLUSTERS, FIBER ONE, GENERAL MILLS",317
+6494,"Seeds, with salt added (decorticated), toasted, sesame seed kernels",567
+6739,"Seeds, with salt added, roasted, whole, pumpkin and squash seeds",446
+6762,"Cereals ready-to-eat, KRETSCHMER Toasted Wheat Bran, SUN COUNTRY",200
+6800,"Cereals ready-to-eat, Nutty Clusters & Almonds, FIBER ONE, GENERAL MILLS",348
+7048,"Beverages,, 3-2-1 Plan, whey powder, high protein, SLIMFAST Shake Mix, UNILEVER",368
+7169,"Cereals ready-to-eat, Chocolate Squares, FIBER ONE 80 Calories, GENERAL MILLS",253
+7350,"Cereals ready-to-eat, Honey Squares, FIBER ONE 80 Calories, GENERAL MILLS",248

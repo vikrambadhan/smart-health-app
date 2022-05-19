@@ -1,0 +1,485 @@
+---
+swagger: "2.0"
+info:
+  version: "1.0.0"
+  title: "Meal Planner API"
+host: "i4ct2jnqkk.execute-api.us-east-1.amazonaws.com"
+basePath: "/Prod"
+schemes:
+- "https"
+paths:
+  /chatbot:
+    post:
+      consumes:
+      - "application/json"
+      parameters:
+      - name: "Access-Control-Allow-Origin"
+        in: "header"
+        required: false
+        type: "string"
+      - name: "Access-Control-Allow-Headers"
+        in: "header"
+        required: false
+        type: "string"
+      - name: "Access-Control-Allow-Methods"
+        in: "header"
+        required: false
+        type: "string"
+      responses:
+        "200":
+          description: "200 response"
+          headers:
+            Access-Control-Allow-Origin:
+              type: "string"
+    options:
+      consumes:
+      - "application/json"
+      parameters:
+      - name: "Access-Control-Allow-Origin"
+        in: "header"
+        required: false
+        type: "string"
+      - name: "Access-Control-Allow-Headers"
+        in: "header"
+        required: false
+        type: "string"
+      - name: "Access-Control-Allow-Methods"
+        in: "header"
+        required: false
+        type: "string"
+      responses:
+        "200":
+          description: "200 response"
+          headers:
+            Access-Control-Allow-Origin:
+              type: "string"
+            Access-Control-Allow-Methods:
+              type: "string"
+            Access-Control-Allow-Headers:
+              type: "string"
+  /dashboard:
+    get:
+      consumes:
+      - "application/json"
+      produces:
+      - "application/json"
+      parameters:
+      - name: "user_id"
+        in: "query"
+        required: true
+        type: "string"
+      - name: "Access-Control-Allow-Origin"
+        in: "header"
+        required: true
+        type: "string"
+      - name: "Access-Control-Allow-Headers"
+        in: "header"
+        required: true
+        type: "string"
+      - name: "Access-Control-Allow-Methods"
+        in: "header"
+        required: true
+        type: "string"
+      responses:
+        "200":
+          description: "200 response"
+          schema:
+            $ref: "#/definitions/User"
+          headers:
+            Access-Control-Allow-Origin:
+              type: "string"
+            Access-Control-Allow-Methods:
+              type: "string"
+            Access-Control-Allow-Headers:
+              type: "string"
+        "500":
+          description: "500 response"
+        "403":
+          description: "403 response"
+    options:
+      parameters:
+      - name: "Access-Control-Allow-Origin"
+        in: "header"
+        required: true
+        type: "string"
+      - name: "Access-Control-Allow-Headers"
+        in: "header"
+        required: true
+        type: "string"
+      - name: "Access-Control-Allow-Methods"
+        in: "header"
+        required: true
+        type: "string"
+      responses:
+        "200":
+          description: "200 response"
+          headers:
+            Access-Control-Allow-Origin:
+              type: "string"
+            Access-Control-Allow-Methods:
+              type: "string"
+            Access-Control-Allow-Headers:
+              type: "string"
+  /getpreferences:
+    get:
+      parameters:
+      - name: "Access-Control-Allow-Origin"
+        in: "header"
+        required: false
+        type: "string"
+      - name: "Access-Control-Allow-Headers"
+        in: "header"
+        required: false
+        type: "string"
+      - name: "Access-Control-Allow-Methods"
+        in: "header"
+        required: false
+        type: "string"
+      responses:
+        "200":
+          description: "200 response"
+          headers:
+            Access-Control-Allow-Origin:
+              type: "string"
+            Access-Control-Allow-Methods:
+              type: "string"
+            Access-Control-Allow-Headers:
+              type: "string"
+    options:
+      responses:
+        "200":
+          description: "200 response"
+          headers:
+            Access-Control-Allow-Origin:
+              type: "string"
+            Access-Control-Allow-Methods:
+              type: "string"
+            Access-Control-Allow-Headers:
+              type: "string"
+  /mealplans:
+    get:
+      operationId: "getmealplans"
+      parameters:
+      - name: "Access-Control-Allow-Origin"
+        in: "header"
+        required: true
+        type: "string"
+      - name: "Access-Control-Allow-Headers"
+        in: "header"
+        required: true
+        type: "string"
+      - name: "meal_id"
+        in: "query"
+        required: true
+        type: "string"
+      - name: "Access-Control-Allow-Methods"
+        in: "header"
+        required: true
+        type: "string"
+      responses:
+        "200":
+          description: "200 response"
+          headers:
+            Access-Control-Allow-Origin:
+              type: "string"
+            Access-Control-Allow-Methods:
+              type: "string"
+            Access-Control-Allow-Headers:
+              type: "string"
+    post:
+      operationId: "mealplansPost"
+      responses:
+        "200":
+          description: "200 response"
+          headers:
+            Access-Control-Allow-Origin:
+              type: "string"
+            Access-Control-Allow-Methods:
+              type: "string"
+            Access-Control-Allow-Headers:
+              type: "string"
+    options:
+      consumes:
+      - "application/json"
+      parameters:
+      - name: "Access-Control-Allow-Origin"
+        in: "header"
+        required: false
+        type: "string"
+      - name: "Access-Control-Allow-Headers"
+        in: "header"
+        required: false
+        type: "string"
+      - name: "Access-Control-Allow-Methods"
+        in: "header"
+        required: false
+        type: "string"
+      responses:
+        "200":
+          description: "200 response"
+          headers:
+            Access-Control-Allow-Origin:
+              type: "string"
+            Access-Control-Allow-Methods:
+              type: "string"
+            Access-Control-Allow-Headers:
+              type: "string"
+  /mealsearch:
+    get:
+      consumes:
+      - "application/json"
+      produces:
+      - "application/json"
+      parameters:
+      - name: "Access-Control-Allow-Origin"
+        in: "header"
+        required: true
+        type: "string"
+      - name: "Access-Control-Allow-Headers"
+        in: "header"
+        required: true
+        type: "string"
+      - name: "meal_id"
+        in: "query"
+        required: true
+        type: "string"
+      - name: "Access-Control-Allow-Methods"
+        in: "header"
+        required: true
+        type: "string"
+      responses:
+        "200":
+          description: "200 response"
+          schema:
+            $ref: "#/definitions/Empty"
+          headers:
+            Access-Control-Allow-Origin:
+              type: "string"
+    options:
+      produces:
+      - "application/json"
+      parameters:
+      - name: "Access-Control-Allow-Origin"
+        in: "header"
+        required: true
+        type: "string"
+      - name: "Access-Control-Allow-Headers"
+        in: "header"
+        required: true
+        type: "string"
+      - name: "Access-Control-Allow-Methods"
+        in: "header"
+        required: true
+        type: "string"
+      responses:
+        "200":
+          description: "200 response"
+          schema:
+            $ref: "#/definitions/Empty"
+          headers:
+            Access-Control-Allow-Origin:
+              type: "string"
+            Access-Control-Allow-Methods:
+              type: "string"
+            Access-Control-Allow-Headers:
+              type: "string"
+  /profile:
+    get:
+      operationId: "getProfile"
+      consumes:
+      - "application/json"
+      produces:
+      - "application/json"
+      parameters:
+      - name: "user_id"
+        in: "query"
+        required: true
+        type: "string"
+      - name: "Access-Control-Allow-Origin"
+        in: "header"
+        required: true
+        type: "string"
+      - name: "username"
+        in: "path"
+        required: true
+        type: "string"
+      - name: "Access-Control-Allow-Headers"
+        in: "header"
+        required: true
+        type: "string"
+      - name: "Access-Control-Allow-Methods"
+        in: "header"
+        required: true
+        type: "string"
+      responses:
+        "200":
+          description: "200 response"
+          schema:
+            $ref: "#/definitions/User"
+          headers:
+            Access-Control-Allow-Origin:
+              type: "string"
+        "500":
+          description: "500 response"
+        "403":
+          description: "403 response"
+    post:
+      operationId: "changeProfile"
+      consumes:
+      - "application/json"
+      produces:
+      - "application/json"
+      parameters:
+      - name: "Access-Control-Allow-Origin"
+        in: "header"
+        required: true
+        type: "string"
+      - name: "username"
+        in: "path"
+        required: true
+        type: "string"
+      - name: "Access-Control-Allow-Headers"
+        in: "header"
+        required: true
+        type: "string"
+      - name: "Access-Control-Allow-Methods"
+        in: "header"
+        required: true
+        type: "string"
+      - in: "body"
+        name: "User"
+        required: true
+        schema:
+          $ref: "#/definitions/User"
+      responses:
+        "200":
+          description: "200 response"
+          schema:
+            $ref: "#/definitions/User"
+          headers:
+            Access-Control-Allow-Origin:
+              type: "string"
+        "500":
+          description: "500 response"
+        "403":
+          description: "403 response"
+    options:
+      parameters:
+      - name: "Access-Control-Allow-Origin"
+        in: "header"
+        required: true
+        type: "string"
+      - name: "Access-Control-Allow-Headers"
+        in: "header"
+        required: true
+        type: "string"
+      - name: "Access-Control-Allow-Methods"
+        in: "header"
+        required: true
+        type: "string"
+      responses:
+        "200":
+          description: "200 response"
+          headers:
+            access-control-allow-origin:
+              type: "string"
+            Access-Control-Allow-Origin:
+              type: "string"
+            Access-Control-Allow-Methods:
+              type: "string"
+            Access-Control-Allow-Headers:
+              type: "string"
+  /recommendations:
+    get:
+      operationId: "getrecommendations"
+      produces:
+      - "application/json"
+      parameters:
+      - name: "user_id"
+        in: "query"
+        required: false
+        type: "string"
+      - name: "username"
+        in: "path"
+        required: true
+        type: "string"
+      responses:
+        "200":
+          description: "200 response"
+          schema:
+            $ref: "#/definitions/recomms"
+          headers:
+            Access-Control-Allow-Origin:
+              type: "string"
+        "500":
+          description: "500 response"
+        "403":
+          description: "403 response"
+    post:
+      operationId: "postPreferences"
+      consumes:
+      - "application/json"
+      parameters:
+      - in: "body"
+        name: "recomms"
+        required: true
+        schema:
+          $ref: "#/definitions/recomms"
+      responses:
+        "200":
+          description: "200 response"
+          headers:
+            Access-Control-Allow-Origin:
+              type: "string"
+    options:
+      consumes:
+      - "application/json"
+      parameters:
+      - name: "user_name"
+        in: "query"
+        required: false
+        type: "string"
+      responses:
+        "200":
+          description: "200 response"
+          headers:
+            Access-Control-Allow-Origin:
+              type: "string"
+            Access-Control-Allow-Methods:
+              type: "string"
+            Access-Control-Allow-Headers:
+              type: "string"
+definitions:
+  Empty:
+    type: "object"
+    title: "Empty Schema"
+  User:
+    type: "object"
+    properties:
+      id:
+        type: "string"
+      firstName:
+        type: "string"
+      lastName:
+        type: "string"
+      email:
+        type: "string"
+      password:
+        type: "string"
+      plan:
+        type: "string"
+  recomms:
+    type: "object"
+    properties:
+      meal_names:
+        type: "array"
+        items:
+          $ref: "#/definitions/meals"
+      calories:
+        type: "array"
+        items:
+          $ref: "#/definitions/calories"
+  calories:
+    type: "integer"
+  meals:
+    type: "string"

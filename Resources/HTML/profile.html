@@ -1,0 +1,443 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="MyMacroChef is a premium food delivery service 
+    with the mission to bring affordable and healthy meals to as many people 
+    as possible.">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" href="../../Vendors/CSS/normalize.css">
+    <link rel="stylesheet" type="text/css" href="../../Vendors/CSS/Grid.css">
+    <link rel="stylesheet" type="text/css" href="../../Vendors/CSS/ionicons.css">
+    <link rel="stylesheet" type="text/css" href="../../Vendors/CSS/animate.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="../CSS/style.css">
+    <link rel="stylesheet" type="text/css" href="../CSS/queries.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	<script type="text/javascript" src="../../lib/axios/dist/axios.standalone.js"></script>
+	<script type="text/javascript" src="../../lib/CryptoJS/rollups/hmac-sha256.js"></script>
+	<script type="text/javascript" src="../../lib/CryptoJS/rollups/sha256.js"></script>
+	<script type="text/javascript" src="../../lib/CryptoJS/components/hmac.js"></script>
+	<script type="text/javascript" src="../../lib/CryptoJS/components/enc-base64.js"></script>
+	<script type="text/javascript" src="../../lib/url-template/url-template.js"></script>
+	<script type="text/javascript" src="../../lib/apiGatewayCore/sigV4Client.js"></script>
+	<script type="text/javascript" src="../../lib/apiGatewayCore/apiGatewayClient.js"></script>
+	<script type="text/javascript" src="../../lib/apiGatewayCore/simpleHttpClient.js"></script>
+	<script type="text/javascript" src="../../lib/apiGatewayCore/utils.js"></script>
+	<script type="text/javascript" src="../JS/apigClient.js"></script>
+	<script type="text/javascript" src="../JS/profile.js"></script>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-select@1.13.9/dist/css/bootstrap-select.min.css">
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap-select@1.13.9/dist/js/bootstrap-select.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:100,300,300i,400">
+    <title>Be-Fit</title>
+
+    <link rel="apple-touch-icon" sizes="180x180" href="..\Favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="..\Favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="..\Favicons/favicon-16x16.png">
+    <link rel="manifest" href="..\Favicons/site.webmanifest">
+    <link rel="mask-icon" href="..\Favicons/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="..\Favicons/favicon.ico">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="msapplication-config" content="..\Favicons/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    
+</head>
+<body>
+    <header class="headerother" style="background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../CSS/IMG/foodimage.jpg);height: auto;">
+        <nav>
+            <div class="">
+                <img src="../IMG/logo-new.png" alt="Logo" srcset="" onclick="window.open('livetracking.html', '_self');">
+                <img src="../IMG/logo.png" alt="Logo" class="logo-black" srcset="" onclick="window.open('livetracking.html', '_self');">
+                <ul id="redirect-bar" class="main-nav js--main-nav" style="float: right;margin-top: 39px;margin-right: 10px;">
+                    <li><a href="../HTML/dashboard.html">Home</a></li>
+					<li><a href="profile.html">My Profile</a></li>
+					<li><a href="mealPlans.html">Meal Plans</a></li>
+					<li><a href="recommendation.html">Meal Recommendations</a></li>
+                    <!--<li><a href="giftAFriend.html">Gift a Friend</a></li>-->
+					<!--<li><a href="liveTracking.html">Live Tracking</a></li>-->
+					<li><a href="aboutUs.html">About Us</a></li>
+					<li><a href="signout.html">Signout</a></li>
+                </ul>
+                <a class="mobile-nav-icon js--nav-icon"><i class="ion-navicon-round"></i></a>
+            </div>
+        </nav>
+    </header>
+
+    <section class="section-form" style="content: ' ';
+    display: block;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url(../CSS/IMG/profile-image.jpg);
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    background-size: cover;">
+        <div class="row">
+            <h2 style="color: white;">My Profile</h2>
+        </div>
+		<!--<div id="loading">
+		  <img id="loading-image" src="../IMG/loader.gif" alt="Loading..." />
+		</div>-->
+        <form method="post" class="contact-form" onsubmit="return update();">
+        <div class="row" style="font-size: 13px;">
+            <div class="panel-group">
+                <div class="panel panel-default">
+                    <div class="panel-heading"><label>Personal</label></div>
+                    <div class="panel-body">
+                        <div class="col-md-4">
+                            <div class="col span-1-of-3">
+                                <label for="userName">Name : </label>
+                            </div>
+                            <div class="col span-2-of-3">
+                                <input class="form-control" type="text" name="userName" id="userName">
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="col span-1-of-3">
+                                <label for="age">Age : </label>
+                            </div>
+                            <div class="col span-2-of-3">
+                                <input class="form-control" type="number" name="age" id="age">
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="col span-1-of-3">
+                                <label for="gender">Gender  :</label>
+                            </div>
+                            <div class="col span-2-of-3">
+                                <select class="form-control" name="gender" id="gender">
+                                    <option value="male">Male</option>
+                                    <option value="female">Female</option>
+                                    <option value="other">Other</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="col span-1-of-3">
+                                <label for="ethnicity">Ethnicity : </label>
+                            </div>
+                            <div class="col span-2-of-3">
+                                <select class="form-control" name="ethnicity" id="ethnicity">
+                                    <option value="white">White</option>
+                                    <option value="black">Black or African American</option>
+                                    <option value="americanindian">American Indian or Alaska Native</option>
+                                    <option value="southeastasian">South-East Asian</option>
+                                    <option value="southasian">South Asian</option>
+                                    <option value="hawaiian">Native Hawaiian or Other Pacific Islander</option>
+                                    <option value="hispanic">Hispanic</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="col span-1-of-3">
+                                <label for="height">Height : </label>
+                            </div>
+                            <div class="col span-2-of-3">
+                                <input class="form-control" type="number" name="height" id="height" placeholder="Enter your height in cms" required="">
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="col span-1-of-3">
+                                <label for="weight">Weight : </label>
+                            </div>
+                            <div class="col span-2-of-3">
+                                <input class="form-control" type="number" name="weight" id="weight" placeholder="Enter your weight in Kgs" required="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--<div class="row">
+                    <div class="col span-1-of-3">
+                        <label for="calorieintake">Daily Calorie Intake</label>
+                    </div>
+                    <div class="col span-2-of-3">
+                        <input class="form-control" type="number" name="calorieintake" id="calorieintake" placeholder="Daily Calorie Intake (in Kcal/day)" min="1000" max="3500" required>
+						<div>
+							<p id="calnote"></p><span style="font-size:80%">For more info on BMI : <a href="https://bmiwiki.com/bmi-chart/">Visit bmiwiki.com</a></span><br>
+						</div>
+					</div>
+                </div>
+				<div class="row">
+                    <div class="col span-1-of-3">
+                        <label for="dietary">Deitary Restrictions</label>
+                    </div>
+                    <div class="col span-2-of-3">
+                        <select class="form-control" name="dietary" id="dietary">
+                            <option value="nonveg" selected>Non-Vegetarian</option>
+							<option value="vegan">Vegan</option>
+                            <option value="ovovegan">Ovo-Vegetarian</option>
+							<option value="lacvegan">Lacto-Vegetarian</option>
+							<option value="lacovovegan">Lacto-Ovo Vegetarian</option>
+							<option value="pesce">Pescetarian</option>
+                        </select>
+                    </div>
+                </div>
+				<div class="row">
+                    <div class="col span-1-of-3">
+                        <label for="allergy">Food Allergies(if any)</label>
+                    </div>
+                    <div class="col span-2-of-3">
+                        <textarea class="form-control" name="allergy" id="allergy" rows="4" cols="30" placeholder="Ex. peanuts,soy"></textarea>
+                    </div>
+                </div>-->
+            <div class="row">
+                <div class="panel-group">
+                    <div class="panel panel-default">
+                        <div class="panel-heading"><label>Address</label></div>
+                        <div class="panel-body">
+                            <div class="col-md-4">
+                                <div class="col span-1-of-3">
+                                    <label for="street">Street : </label>
+                                </div>
+                                <div class="col span-2-of-3">
+                                    <input class="form-control" type="text" name="street" id="street">
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="col span-1-of-3">
+                                    <label for="city">City : </label>
+                                </div>
+                                <div class="col span-2-of-3">
+                                    <input class="form-control" type="text" name="city" id="city">
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="col span-1-of-3">
+                                    <label for="user_state">State : </label>
+                                </div>
+                                <div class="col span-2-of-3">
+                                    <input class="form-control" type="text" name="user_state" id="user_state">
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="col span-1-of-3">
+                                    <label for="phoneNo">Phone No : </label>
+                                </div>
+                                <div class="col span-2-of-3">
+                                    <input class="form-control" type="text" name="phoneNo" id="phoneNo">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="panel-group">
+                    <div class="panel panel-default">
+                        <div class="panel-heading"><label>Preferences</label></div>
+                        <div class="panel-body">
+                            <div class="col-md-4">
+                                <div class="col span-1-of-3">
+                                    <label for="activity">Activity : </label>
+                                </div>
+                                <div class="col span-2-of-3">
+                                    <select class="form-control" name="activity" id="activity">
+                                        <option value="" selected=""></option>
+                                        <option value="na">Little/No Activity</option>
+                                        <option value="sa">Lightly Active</option>
+                                        <option value="ma">Moderately Active</option>
+                                        <option value="va">Very Active</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="col span-1-of-3">
+                                    <label for="medicalCondition">Medical condition : </label>
+                                </div>
+                                <div class="col span-2-of-3">
+                                    <select class="form-control" name="medicalCondition" id="medicalCondition">
+                                        <option value="" selected=""></option>
+                                        <option value="diabetes">Diabetes</option>
+                                        <option value="cholestrol">Cholestrol</option>
+                                        <option value="hypertension">Hypertension</option>
+                                        <option value="pcos">PCOS</option>
+                                        <option value="thyroid">Thyroid</option>
+                                        <option value="other">Other</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="col span-1-of-3">
+                                    <label for="dietaryPreference">Dietary preference : </label>
+                                </div>
+                                <div class="col span-2-of-3">
+                                    <select class="form-control" name="dietaryPreference" id="dietaryPreference">
+                                        <option value="" selected=""></option>
+                                        <option value="nonvegetarian">Non Vegetarian</option>
+                                        <option value="vegetarian">Vegetarian</option>
+                                        <option value="eggetarian">Eggetarian</option>
+                                        <option value="vegan">Vegan</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="col span-1-of-3">
+                                    <label for="allergies">Food allergies : </label>
+                                </div>
+                                <div class="col span-2-of-3">
+                                    <select class="form-control" name="allergies" id="allergies">
+                                        <option value="" selected=""></option>
+                                        <option value="soy">Soy</option>
+										<option value="caffeine">Caffeine</option>
+										<option value="shellfish">Shellfish</option>
+										<option value="peanut">Peanut</option>
+										<option value="treenut">Treenut</option>
+										<option value="seafood">Seafood</option>
+										<option value="redmeat">Red Meat</option>
+										<option value="whitemeat">White Meat</option>
+                                    </select>
+                                </div>
+                            </div>
+							<div class="row">
+                                <div class="col span-3-of-3">
+                                    <label for="allergies">Choose meal preferences : </label>
+                                </div>
+                            </div>
+							<div class="row">
+                                <div class="col-md-3">
+                                    <label for="lowsalt">Low Salt</label><br>
+                                    <input class="form-control" id="lowsalt" type="checkbox">
+                                </div>
+                                <div class="col-md-3">
+                                    <label for="lowcarb">Low Carb</label><br>
+									<input class="form-control" id="lowcarb" type="checkbox">
+                                </div>
+                                <div class="col-md-3">
+									<label for="lowfat">Low Fat</label><br>
+									<input class="form-control" id="lowfat" type="checkbox">
+								</div>
+                                <div class="col-md-3">
+									<label for="lowcholestrol">Low Cholestrol</label><br>
+									<input class="form-control" id="lowcholestrol" type="checkbox">
+								</div>
+								<div class="col-md-3">
+									<label for="highprotein">High Protein</label><br>
+									<input class="form-control" id="highprotein" type="checkbox">
+								</div>
+								<div class="col-md-3">
+									<label for="highfiber">High Fiber</label><br>
+									<input class="form-control" id="highfiber" type="checkbox">
+								</div>
+                                <div class="col-md-3">
+									<label for="lowsugar">Low Sugar</label><br>
+									<input class="form-control" id="lowsugar" type="checkbox">
+								</div>
+                                <!--<div class="col-md-3">
+									<label for="lowcalorie">Low Calorie</label><br>
+									<input class="form-control" id="lowcalorie" type="checkbox">
+								</div>-->
+                                <div class="col-md-3">
+									<label for="pescetarian">Pescetarian</label><br>
+									<input class="form-control" id="pescetarian" type="checkbox">
+								</div>
+                                <div class="col-md-3">
+									<label for="glutenfree">Gluten Free</label><br>
+									<input class="form-control" id="glutenfree" type="checkbox">
+								</div>
+                            </div>   
+                            
+                            
+                            <!--<div class="col-md-4">
+                                <div class="col span-1-of-3">
+                                    <label for="cuisine">Cuisine : </label>
+                                </div>
+                                <div class="col span-2-of-3">
+                                    <select class="form-control" name="cuisine" id="cuisine">
+                                        <option value="" selected=""></option>
+                                        <option value="indian">Indian</option>
+                                        <option value="mexican">Mexican</option>
+                                        <option value="italian">Italian</option>
+                                        <option value="chinese">Chinese</option>
+                                        <option value="american">American</option>
+                                    </select>
+                                </div>
+                            </div>-->
+                        </div></div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="panel-group">
+                        <div class="panel panel-default">
+                            <div class="panel-heading"><label>Health</label></div>
+                            <div class="panel-body">
+                                <div class="col-md-4">
+                                    <div class="col-md-3">
+                                        <label for="bmi">BMI : </label>
+                                    </div>
+                                    <div class="col-md-9">
+                                        <span id="bmi"></span>
+                                    </div>
+                                </div>
+                                <div class="col-md-8">
+                                    <div class="col-md-6">
+                                        <label for="caloriesConsumption">Suggested Daily calories consumption : </label>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <span id="caloriesConsumption"></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+        </div>
+            <br>
+				<div class="row">
+					<p align="center" id="submitnote" hidden>Your profile has been updated</p>
+				</div>
+                <div class="row">
+                    <div class="col span-1-of-3">
+                        <label for="">&nbsp;</label>
+                    </div>
+                </div>
+            </form>
+
+
+            <div class="col span-2-of-3">
+                <input type="submit" value="Update Profile!">
+                <span>&ensp;</span>
+                <input type="button" value="Get Recommendation" onclick="getRecommendation()">
+            </div>
+            
+    </section>
+
+    <footer>
+        <div class="row">
+            <div class="col span-1-of-2">
+                <ul class="footer-nav">
+                    <li><a href="#">About us</a></li>
+                    <li><a href="#">Blog</a></li>
+                    <li><a href="#">Press</a></li>
+                    <li><a href="#">iOS App</a></li>
+                    <li><a href="#">Android App</a></li>
+                </ul>
+            </div>
+            <div class="col span-1-of-2">
+                <ul class="social-links">
+                    <li><a href="#"><i class="ion-social-facebook"></i></a></li>
+                    <li><a href="#"><i class="ion-social-twitter"></i></a></li>
+                    <li><a href="#"><i class="ion-social-googleplus"></i></a></li>
+                    <li><a href="#"><i class="ion-social-instagram"></i></a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="row">
+            <p>
+                Copyright &copy; 2022 Be-Fit. All rights reserved.
+            </p>
+        </div>
+    </footer>
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/selectivizr/1.0.2/selectivizr-min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="../../Vendors/JS/jquery.waypoints.min.js"></script>
+</body>
+</html>

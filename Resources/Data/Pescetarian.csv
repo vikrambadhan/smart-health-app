@@ -1,0 +1,268 @@
+meal_id,name,calories
+44,"Fish, raw, sheepshead",108
+58,"Fish, smoked, haddock",116
+97,"Fish, raw, butterfish",146
+154,"Fish, raw, sablefish",195
+204,"Fish, raw, swordfish",144
+209,"Fish, smoked, cisco",177
+215,"Fish, raw, milkfish",148
+216,"Fish, raw, monkfish",76
+243,"Fish, raw, mahimahi",85
+244,"Fish, raw, bluefish",124
+256,"Fish oil, cod liver",902
+260,"Fish, raw, tilefish",96
+264,"Fish, raw, tilapia",96
+273,"Fish, raw, haddock",74
+293,"Fish oil, menhaden",902
+313,"Fish, raw, lingcod",85
+355,"Fish oil, sardine",902
+356,"Fish oil, herring",902
+369,"Fish, raw, burbot",90
+410,"Fish, raw, cisco",98
+422,"Fish oil, salmon",902
+423,"Fish, tuna salad",187
+447,"Fish, raw, scup",105
+467,"Fish, raw, spot",123
+476,"Fish, raw, carp",127
+478,"Fish, raw, cusk",87
+480,"Fish, raw, ling",87
+585,"Fish, surimi",99
+641,Fish broth,16
+685,"Fish, raw, king, mackerel",105
+688,"Fish, raw, striped, mullet",117
+704,"Fish, raw, mixed species, roe",143
+705,"Fish, smoked, chinook, salmon",117
+732,"Fish, raw, wild, coho, salmon",146
+744,"Fish, raw, mixed species, eel",184
+749,"Fish, raw, Atlantic, mackerel",205
+770,"Fish, raw, Atlantic, wolffish",96
+780,"Fish, dry heat, cooked, ling",111
+781,"Fish, dry heat, cooked, cusk",112
+791,"Fish, raw, Atlantic, herring",158
+795,"Fish, raw, spanish, mackerel",139
+840,"Fish, dry heat, cooked, scup",135
+841,"Fish, dry heat, cooked, spot",158
+846,"Fish, dry heat, cooked, carp",162
+847,"Fish, raw, european, anchovy",131
+852,"Fish, raw, Atlantic, croaker",104
+859,"Fish, raw, Atlantic, pollock",92
+929,"Sauce, ready-to-serve, fish",35
+930,"Fish, raw, european, turbot",95
+956,"Fish, raw, freshwater, drum",119
+963,"Fish, raw, Pacific, herring",195
+969,"Fish, raw, florida, pompano",164
+1010,"Fish, raw, chinook, salmon",179
+1026,"Fish, raw, sockeye, salmon",131
+1057,"Fish, raw, american, shad",197
+1058,"Fish, raw, rainbow, smelt",97
+1082,"Fish, raw, orange, roughy",76
+1134,"Fish, raw, northern, pike",88
+1151,"Fish, raw, Atlantic, cod",82
+1178,"Fish, raw, white, sucker",92
+1200,"McDONALD'S, FILET-O-FISH",282
+1204,"Fish, raw, striped, bass",97
+1206,"Jellyfish, salted, dried",36
+1215,"Fish, raw, walleye, pike",93
+1248,"Fish, raw, chum, salmon",120
+1249,"Fish, smoked, sablefish",257
+1264,"Fish, raw, pink, salmon",127
+1307,"Fish, salted, mackerel",305
+1314,"Fish, raw, ocean, pout",79
+1393,"Fish, raw, mixed species, whitefish",134
+1408,"Fish, raw, mixed species, sea bass",97
+1409,"Fish, dry heat, cooked, sheepshead",126
+1411,"Fish, raw, mixed species, seatrout",104
+1415,"Fish, dry heat, cooked, butterfish",187
+1453,"Fish, raw, mixed species, sturgeon",105
+1483,"BURGER KING, Premium Fish Sandwich",260
+1527,"Fish, raw, farmed, rainbow, trout",141
+1536,"Fish, dry heat, cooked, sablefish",250
+1543,"Fish, raw, wild, channel, catfish",95
+1545,"Fish, raw, mixed species, grouper",92
+1561,"Fish, raw, wild, Atlantic, salmon",142
+1579,"Fish, raw, yellowfin, fresh, tuna",109
+1582,"Fish, raw, mixed species, snapper",100
+1622,"Fish, kippered, Atlantic, herring",217
+1642,"Fish, raw, mixed species, whiting",90
+1645,"Fish, dry heat, cooked, swordfish",172
+1666,"Fish, dry heat, cooked, mahimahi",109
+1670,"Fish, dry heat, cooked, milkfish",190
+1671,"Fish, dry heat, cooked, monkfish",97
+1689,"Fish, raw, Atlantic, ocean perch",79
+1709,"Soup, home-prepared, fish, stock",16
+1710,"Fish, raw, skipjack, fresh, tuna",103
+1714,"Fish, raw, pumpkin seed, sunfish",89
+1730,"Fish, dry heat, cooked, bluefish",159
+1745,"Fish, pickled, Atlantic, herring",262
+1774,"Fish, dry heat, cooked, tilefish",147
+1781,"Fish, raw, mixed species, shark",130
+1784,"Fish, dry heat, cooked, tilapia",128
+1786,"Crackers, fish-shaped, flavored",463
+1788,"Fish, dry heat, cooked, lingcod",109
+1799,"Fish, dry heat, cooked, haddock",90
+1843,"Fish, raw, farmed, coho, salmon",160
+1863,"APPLEBEE'S, hand battered, fish",202
+1869,"Fish, raw, mixed species, perch",91
+1883,"Fish, raw, bluefin, fresh, tuna",144
+1884,"Fish, raw, mixed species, trout",148
+1885,"Fish, raw, wild, rainbow, trout",119
+1898,"Fish, dry heat, cooked, burbot",115
+2027,"Fish, raw, Greenland, halibut",186
+2071,"Fish, dry heat, cooked, florida, pompano",211
+2120,"Fish, dry heat, cooked, striped, mullet",150
+2149,"Fish, New York State, raw, brook, trout",110
+2152,"Fish, dry heat, cooked, sockeye, salmon",156
+2160,"Fish, dry heat, cooked, chinook, salmon",231
+2182,"Fish, raw (Alaska Native), Chum, Salmon",116
+2218,"Fish, dry heat, cooked, king, mackerel",134
+2253,"Fish oil, fully hydrogenated, menhaden",902
+2260,"Fish, dry heat, cooked, rainbow, smelt",124
+2267,"Fish, dried (Alaska Native), whitefish",371
+2274,"Fish, dry heat, cooked, orange, roughy",105
+2282,"Fish, dry heat, cooked, american, shad",252
+2307,"Fish, dry heat, cooked, northern, pike",113
+2325,"Fish, whole (Alaska Native), blackfish",82
+2335,"Fish, smoked, mixed species, whitefish",108
+2368,"Fish, dry heat, cooked, walleye, pike",119
+2370,"Fish, dried and salted, Atlantic, cod",290
+2371,"Fish, dry heat, cooked, Atlantic, cod",105
+2372,"Fish, granular, black and red, caviar",264
+2403,"Fish, smoked, mixed species, sturgeon",173
+2419,"Fish, dry heat, cooked, striped, bass",124
+2423,"Fish, dry heat, cooked, white, sucker",119
+2434,"Fish, eggs (Alaska Native), whitefish",104
+2448,"Fish, meat (Alaska Native), devilfish",97
+2559,"Fish, dry heat, cooked, chum, salmon",154
+2560,"Fish, dry heat, cooked, pink, salmon",153
+2567,"Fish, liver (Alaska Native), lingcod",424
+2588,"Soup, homemade (Alaska Native), fish",72
+2591,"Fish, raw, mixed species, yellowtail",146
+2614,"Fish, dry heat, cooked, ocean, pout",102
+2670,"Fish, raw (Alaska Native), sheefish",115
+2683,"Fish, raw, farmed, Atlantic, salmon",208
+2684,"Fish, raw, farmed, channel, catfish",119
+2706,"Fish, prepared, frozen, fish sticks",277
+2755,"Fast foods, with tartar sauce, fish sandwich",257
+2784,"Fish, dry heat, cooked, mixed species, trout",190
+2802,"Fish, moist heat, cooked, wild, coho, salmon",184
+2808,"Fish, dry heat, cooked, farmed, coho, salmon",178
+2827,"Fish, dry heat, cooked, wild, rainbow, trout",150
+2833,"Fish, drained solids, canned, jack, mackerel",156
+2839,"Fish, dry heat, cooked, mixed species, perch",117
+2863,"Fish, dry heat, cooked, bluefin, fresh, tuna",184
+2889,"Fish, liver (Alaska Native), northern, pike",156
+2893,"Fish, sweet recipe, commercial, gefiltefish",84
+2906,"Fish, raw, mixed species, Pacific, rockfish",90
+2966,"Fish, raw, mixed species, fresh water, bass",114
+2968,"CRACKER BARREL, farm raised catfish platter",266
+3022,"Fish, drained solids, canned, pink, salmon",138
+3032,"Fish, dry heat, cooked, wild, coho, salmon",139
+3040,"Fish, dry heat, cooked, Atlantic, wolffish",123
+3041,"Fish, dry heat, cooked, greenland, halibut",239
+3050,"Fish, dry heat, cooked, mixed species, roe",204
+3138,"Fish, dry heat, cooked, mixed species, eel",236
+3144,"Fish, dry heat, cooked, Atlantic, mackerel",262
+3197,"Fish, dry heat, cooked, Atlantic, pollock",118
+3214,"Fish, dry heat, cooked, spanish, mackerel",158
+3272,"Fish, dry heat, cooked, Atlantic, herring",203
+3281,"Fish, dried (Alaska Native), chum, salmon",378
+3317,"Fish, dry heat, cooked, european, turbot",122
+3319,"Fish, dry heat, cooked, Pacific, herring",250
+3320,"Fish, dry heat, cooked, freshwater, drum",153
+3333,"Fish, raw, Atlantic and Pacific, halibut",91
+3355,"Mollusks, raw, mixed species, cuttlefish",79
+3396,"Fish, raw (Alaska Native), meat, lingcod",79
+3452,"Fish, dry heat, cooked, mixed species, whitefish",172
+3475,"DENNY'S, fried, battered or breaded, fish fillet",234
+3497,"Fish, drained solids, canned in oil, white, tuna",186
+3501,"Fish, raw (Alaska Native), coho (silver), salmon",140
+3519,"Fish, dry heat, cooked, farmed, Atlantic, salmon",206
+3520,"Fish, dry heat, cooked, farmed, channel, catfish",144
+3539,"Fish, dry (Alaska Native), Pacific, herring eggs",312
+3545,"Fish, with skin (Alaska Native), cooked, halibut",113
+3547,"Fish, raw (Alaska Native), sockeye (red), salmon",153
+3588,"Fish, drained solids, canned in oil, light, tuna",198
+3599,"Fish, dry heat, cooked, mixed species, sea bass",124
+3602,"Fish, raw (not previously frozen), Pacific, cod",72
+3630,"McDONALD'S, FILET-O-FISH (without tartar sauce)",243
+3652,"Crustaceans, raw, wild, mixed species, crayfish",77
+3663,"Fish, dry heat, cooked, mixed species, sturgeon",135
+3697,"Fish, dry heat, cooked, mixed species, seatrout",133
+3707,"Fish, raw, flatfish (flounder and sole species)",70
+3748,"Fish, fermented (Alaska Native), tipnuk, salmon",159
+3754,"Fish, dry heat, cooked, farmed, rainbow, trout",168
+3759,"Fish, dry heat, cooked, fresh, yellowfin, tuna",130
+3765,"Fish, dry heat, cooked, wild, Atlantic, salmon",182
+3767,"Fish, solids and liquid, canned, Atlantic, cod",105
+3773,"Fish, dry heat, cooked, mixed species, grouper",118
+3811,"Fish, dry heat, cooked, mixed species, snapper",128
+3820,"Fish, total can contents, canned, pink, salmon",129
+3825,"Fish, dry heat, cooked, wild, channel, catfish",105
+3892,"Fish, dry heat, cooked, mixed species, whiting",116
+3916,"Fish, dry heat, cooked, fresh, skipjack, tuna",132
+3921,"Fish, liver (Alaska Native), broad, whitefish",104
+3939,"Fish, with skin (Alaska Native), raw, halibut",116
+3940,"Fish, dry heat, cooked, Atlantic, ocean perch",96
+3986,"Fish, drained solids, canned, sockeye, salmon",167
+4001,"Fish, dry heat, cooked, pumpkin seed, sunfish",114
+4042,"Fish, regular, (lox), smoked, chinook, salmon",117
+4209,"Fish, raw, mixed species, Pacific and jack, mackerel",158
+4263,"Fish, drained solids with bone, canned, chum, salmon",141
+4390,"Fish, raw (Alaska Native), mixed species, whitefish",131
+4466,"Fish, cooked (not previously frozen), Pacific, cod",84
+4467,"Fish, raw (not previously frozen), Alaska, pollock",70
+4523,"Fish, drained solids, canned in water, light, tuna",86
+4524,"Fish, drained solids, canned in water, white, tuna",128
+4525,"Fish, liver (Alaska Native), chinook, king, salmon",156
+4530,"Fish, plain (Alaska Native), Pacific, herring eggs",74
+4573,"Fish, breaded and fried, cooked, Atlantic, croaker",221
+4632,"Crustaceans, raw, farmed, mixed species, crayfish",72
+4639,"Fish, dry heat, cooked, mixed species, yellowtail",187
+4646,"Fish, breaded and fried, cooked, channel, catfish",229
+4697,"Fish, raw (Alaska Native), king (chinook), salmon",187
+4896,"Fish, raw (may have been previously frozen), Pacific, cod",69
+4945,"PEPPERIDGE FARM, Parmesan, Baked Snack Crackers, Goldfish",459
+4946,"PEPPERIDGE FARM, Original, Baked Snack Crackers, Goldfish",467
+4986,"Fish, Pacific (Alaska Native), herring eggs on giant kelp",63
+5045,"Fish, dry heat, cooked, mixed species, Pacific, rockfish",109
+5073,"PEPPERIDGE FARM, Cheddar, Baked Snack Crackers, Goldfish",457
+5075,"Fish, (Alaska Native), kippered, with skin, king, salmon",209
+5100,"Fish, bones removed (Alaska Native), canned, red, salmon",161
+5142,"Mollusks, moist heat, cooked, mixed species, cuttlefish",158
+5155,"Fast foods, with tartar sauce and cheese, fish sandwich",279
+5196,"Fish, dry heat, cooked, mixed species, freshwater, bass",146
+5260,"Fish, kippered (Alaska Native), (sockeye), red, salmon",141
+5313,"PEPPERIDGE FARM, Pizza, Baked Snack Crackers, Goldfish",469
+5339,"Fish, drained solids, canned in oil, european, anchovy",210
+5395,"Fish, cooked (not previously frozen), Alaska, pollock",80
+5416,"Fish, dry heat, cooked, Atlantic and Pacific, halibut",111
+5606,"Fish, smoked and canned (Alaska Native), chinook, king, salmon",150
+5636,"Crustaceans, moist heat, cooked, wild, mixed species, crayfish",82
+5656,"Fish, drained solids, without salt, canned in oil, light, tuna",198
+5657,"Fish, drained solids, without salt, canned in oil, white, tuna",186
+5716,"Fish, canned (Alaska Native), kippered, chinook, king, salmon",266
+5840,"Fish, smoked (Alaska Native), canned, (sockeye), red, salmon",206
+5915,"Fish, dry heat, cooked, flatfish (flounder and sole species)",86
+5926,"Fish, raw (may have been previously frozen), Alaska, pollock",56
+5951,"Fish, batter-dipped and fried, cooked, mixed species, shark",228
+5966,"Fish, brined (Alaska Native), smoked, chinook, king, salmon",430
+6149,"Fish, packed in oil (Alaska Native), air-dried, flesh, Pacific, herring",489
+6202,"Fish, dry heat (may have been previously frozen), cooked, Pacific, cod",85
+6317,"Fish, solids with bone and liquid, without salt, canned, pink, salmon",139
+6318,"Fish, drained solids with bone, without salt, canned, sockeye, salmon",153
+6353,"Agutuk, fish/berry with seal oil (Alaskan ice cream) (Alaska Native)",353
+6517,"Fish, without skin and bones, drained solids, canned, pink, Salmon",136
+6569,"Fish, drained solids with bone, without salt, canned, chum, salmon",141
+6635,"Fish, dry heat, cooked, mixed species, Pacific and jack, mackerel",201
+6701,"Restaurant, fried, battered or breaded, fish fillet, family style",219
+6731,"Crustaceans, moist heat, cooked, farmed, mixed species, crayfish",87
+6758,"PEPPERIDGE FARM, Explosive Pizza, Baked Snack Crackers, Goldfish",458
+6777,"Agutuk, fish with shortening (Alaskan ice cream) (Alaska Native)",470
+6778,"Fish, drained solids with bone, canned in oil, Atlantic, sardine",208
+6785,"Fish, drained solids, without salt, canned in water, light, tuna",116
+6786,"Fish, drained solids, without salt, canned in water, white, tuna",128
+6980,"CAMPBELL'S Red and White, condensed, GOLDFISH Pasta with Chicken in Chicken Broth",63
+7343,"Fish, cheeks and soft bones (Alaska Native), eyes, head, broad, whitefish",107
+7375,"Fish, dry heat (may have been previously frozen), cooked, Alaska, pollock",111
+7427,"Fish, drained solids with bone, canned in tomato sauce, Pacific, sardine",185
+8066,"Margarine-like spread, SMART BALANCE Omega Plus Spread (with plant sterols & fish oil)",605
