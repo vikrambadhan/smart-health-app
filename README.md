@@ -1,6 +1,6 @@
 # smart-health-app
 
-Course Major Project for Cloud Computing (CS-GY 9223 Spring 2022)
+Major Project for Cloud Computing (CS-GY 9223 Spring 2022)
 
 ## Architecture Diagram
 
