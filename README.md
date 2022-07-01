@@ -1,6 +1,8 @@
 # smart-health-app
 
-Major Project for Cloud Computing (CS-GY 9223 Spring 2022)
+• Created an online meal recommendation and food delivery web application that suggests meals to users on the basis of their nutritional requirements and fitness goals.
+• Made use of AWS services like S3, API Gateway, Cognito, Sagemaker, DynamoDB, Lambda and OpenSearch.
+• Utilized an online food dataset which included meals with their nutrition value to train a machine learning model which gave us customized meal plans for the user to choose
 
 ## Architecture Diagram
 
